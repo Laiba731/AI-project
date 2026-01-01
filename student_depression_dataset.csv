@@ -1,0 +1,1380 @@
+id,Gender,Age,City,Profession,Academic Pressure,Work Pressure,CGPA,Study Satisfaction,Job Satisfaction,Sleep Duration,Dietary Habits,Degree,Have you ever had suicidal thoughts ?,Work/Study Hours,Financial Stress,Family History of Mental Illness,Depression
+2,Male,33,Visakhapatnam,Student,5,0,8.97,2,0,'5-6 hours',Healthy,B.Pharm,Yes,3,1,No,1
+8,Female,24,Bangalore,Student,2,0,5.9,5,0,'5-6 hours',Moderate,BSc,No,3,2,Yes,0
+26,Male,31,Srinagar,Student,3,0,7.03,5,0,'Less than 5 hours',Healthy,BA,No,9,1,Yes,0
+30,Female,28,Varanasi,Student,3,0,5.59,2,0,'7-8 hours',Moderate,BCA,Yes,4,5,Yes,1
+32,Female,25,Jaipur,Student,4,0,8.13,3,0,'5-6 hours',Moderate,M.Tech,Yes,1,1,No,0
+33,Male,29,Pune,Student,2,0,5.7,3,0,'Less than 5 hours',Healthy,PhD,No,4,1,No,0
+52,Male,30,Thane,Student,3,0,9.54,4,0,'7-8 hours',Healthy,BSc,No,1,2,No,0
+56,Female,30,Chennai,Student,2,0,8.04,4,0,'Less than 5 hours',Unhealthy,'Class 12',No,0,1,Yes,0
+59,Male,28,Nagpur,Student,3,0,9.79,1,0,'7-8 hours',Moderate,B.Ed,Yes,12,3,No,1
+62,Male,31,Nashik,Student,2,0,8.38,3,0,'Less than 5 hours',Moderate,LLB,Yes,2,5,No,1
+83,Male,24,Nagpur,Student,3,0,6.1,3,0,'5-6 hours',Moderate,'Class 12',Yes,11,1,Yes,1
+91,Male,33,Vadodara,Student,3,0,7.03,4,0,'Less than 5 hours',Healthy,BE,Yes,10,2,Yes,0
+94,Male,27,Kalyan,Student,5,0,7.04,1,0,'Less than 5 hours',Moderate,M.Tech,No,10,1,Yes,1
+100,Female,19,Rajkot,Student,2,0,8.52,4,0,'Less than 5 hours',Unhealthy,'Class 12',No,6,2,Yes,0
+103,Female,19,Kalyan,Student,5,0,5.64,5,0,'Less than 5 hours',Moderate,'Class 12',Yes,4,5,Yes,1
+106,Male,29,Srinagar,Student,3,0,8.58,3,0,'More than 8 hours',Moderate,M.Tech,Yes,10,2,Yes,1
+120,Male,25,Nashik,Student,5,0,6.51,2,0,'Less than 5 hours',Unhealthy,M.Ed,Yes,2,5,Yes,1
+132,Female,20,Ahmedabad,Student,5,0,7.25,3,0,'5-6 hours',Healthy,'Class 12',Yes,10,3,No,1
+139,Male,19,Chennai,Student,2,0,7.83,2,0,'7-8 hours',Unhealthy,'Class 12',No,6,3,No,0
+145,Male,25,Kalyan,Student,3,0,9.93,3,0,'5-6 hours',Moderate,B.Ed,No,8,3,Yes,1
+161,Male,29,Kolkata,Student,3,0,8.74,4,0,'5-6 hours',Moderate,B.Ed,Yes,1,1,No,0
+162,Male,29,Kolkata,Student,3,0,6.73,3,0,'7-8 hours',Moderate,M.Tech,No,0,1,No,0
+166,Female,25,Ahmedabad,Student,3,0,5.57,3,0,'More than 8 hours',Unhealthy,MSc,Yes,10,5,No,1
+172,Male,23,Thane,Student,1,0,8.59,4,0,'7-8 hours',Healthy,BHM,No,11,3,No,0
+173,Male,18,Bangalore,Student,4,0,7.1,3,0,'More than 8 hours',Unhealthy,'Class 12',Yes,11,5,Yes,1
+176,Female,20,Mumbai,Student,5,0,8.58,5,0,'7-8 hours',Moderate,'Class 12',No,2,2,Yes,1
+186,Male,31,Ahmedabad,Student,2,0,6.08,5,0,'7-8 hours',Moderate,LLB,Yes,3,3,Yes,1
+193,Male,25,Lucknow,Student,3,0,7.25,3,0,'More than 8 hours',Unhealthy,M.Ed,Yes,10,5,No,1
+208,Male,33,Indore,Student,5,0,5.74,2,0,'Less than 5 hours',Moderate,M.Pharm,No,8,3,Yes,0
+214,Male,28,Kalyan,Student,3,0,9.86,3,0,'7-8 hours',Unhealthy,M.Pharm,Yes,11,2,No,1
+222,Male,18,Surat,Student,4,0,6.7,5,0,'Less than 5 hours',Moderate,'Class 12',Yes,5,4,Yes,1
+232,Male,18,Visakhapatnam,Student,2,0,6.21,3,0,'5-6 hours',Unhealthy,'Class 12',Yes,4,2,No,1
+239,Male,21,Jaipur,Student,1,0,7.25,1,0,'Less than 5 hours',Healthy,MCA,Yes,7,2,No,0
+240,Female,31,Kalyan,Student,1,0,5.87,3,0,'7-8 hours',Healthy,PhD,No,8,4,Yes,0
+242,Male,21,Surat,Student,1,0,8.04,3,0,'More than 8 hours',Healthy,MA,No,0,3,Yes,0
+253,Female,25,Ludhiana,Student,1,0,6.37,3,0,'7-8 hours',Moderate,B.Pharm,Yes,2,2,No,0
+255,Female,21,Bhopal,Student,5,0,9.72,2,0,'5-6 hours',Moderate,B.Com,Yes,0,4,Yes,1
+263,Male,28,Srinagar,Student,5,0,5.88,3,0,'7-8 hours',Unhealthy,BCA,Yes,9,1,Yes,0
+270,Male,28,Thane,Student,1,0,9.56,2,0,'7-8 hours',Unhealthy,MD,No,6,3,No,0
+273,Male,25,Meerut,Student,3,0,6.51,4,0,'7-8 hours',Unhealthy,B.Pharm,Yes,3,4,No,1
+274,Female,20,Thane,Student,3,0,6.99,2,0,'7-8 hours',Moderate,'Class 12',Yes,11,5,Yes,1
+277,Male,23,Agra,Student,2,0,6.1,4,0,'5-6 hours',Unhealthy,MSc,Yes,10,1,Yes,0
+280,Male,19,Agra,Student,1,0,5.24,3,0,'5-6 hours',Healthy,'Class 12',Yes,2,1,No,0
+285,Female,33,Ghaziabad,Student,4,0,9.21,1,0,'Less than 5 hours',Unhealthy,MBA,Yes,10,5,Yes,1
+294,Female,23,Chennai,Student,1,0,7.85,4,0,'More than 8 hours',Unhealthy,BE,No,12,5,No,0
+301,Male,22,Lucknow,Student,1,0,9.93,1,0,'7-8 hours',Unhealthy,B.Ed,No,10,1,No,0
+303,Female,19,Meerut,Student,2,0,6.95,2,0,'Less than 5 hours',Healthy,'Class 12',Yes,2,3,Yes,0
+305,Female,30,Hyderabad,Student,1,0,5.86,3,0,'Less than 5 hours',Healthy,BSc,No,1,4,Yes,0
+310,Male,21,Kalyan,Student,3,0,7.04,3,0,'Less than 5 hours',Unhealthy,MSc,No,1,5,Yes,0
+312,Female,19,Rajkot,Student,5,0,6.99,5,0,'More than 8 hours',Healthy,'Class 12',Yes,0,4,Yes,1
+315,Male,23,Kalyan,Student,3,0,7.92,3,0,'Less than 5 hours',Moderate,B.Com,No,10,4,Yes,0
+316,Female,23,Vasai-Virar,Student,5,0,9.66,1,0,'7-8 hours',Healthy,BHM,Yes,12,5,Yes,1
+324,Female,18,Vadodara,Student,3,0,5.7,5,0,'5-6 hours',Unhealthy,'Class 12',Yes,11,4,No,1
+328,Male,28,Srinagar,Student,4,0,8.94,1,0,'7-8 hours',Unhealthy,M.Pharm,Yes,12,1,Yes,1
+335,Male,24,Hyderabad,Student,2,0,8.04,3,0,'5-6 hours',Unhealthy,M.Tech,No,8,1,No,0
+336,Female,33,Srinagar,Student,1,0,9.71,1,0,'More than 8 hours',Healthy,B.Com,Yes,5,2,No,0
+337,Female,20,Kalyan,Student,3,0,8.04,2,0,'5-6 hours',Moderate,'Class 12',Yes,7,3,No,1
+340,Male,23,Kalyan,Student,5,0,7.87,1,0,'7-8 hours',Moderate,BSc,Yes,11,4,Yes,1
+343,Male,23,Pune,Student,5,0,5.74,1,0,'5-6 hours',Healthy,BA,Yes,11,4,Yes,1
+347,Female,24,Ludhiana,Student,3,0,5.6,1,0,'Less than 5 hours',Healthy,MBBS,Yes,9,2,No,1
+348,Male,25,Jaipur,Student,5,0,9.21,1,0,'5-6 hours',Unhealthy,BSc,No,7,3,Yes,0
+351,Female,24,Bhopal,Student,4,0,7.9,3,0,'5-6 hours',Moderate,MBBS,Yes,3,5,No,1
+367,Female,24,Kolkata,Student,3,0,5.46,4,0,'7-8 hours',Moderate,BSc,Yes,10,5,No,1
+370,Male,31,Nashik,Student,1,0,6.79,5,0,'More than 8 hours',Unhealthy,MCA,Yes,0,3,Yes,0
+381,Male,20,Thane,Student,5,0,8.7,4,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,4,5,Yes,1
+385,Male,21,Ludhiana,Student,2,0,7.38,5,0,'Less than 5 hours',Healthy,MA,Yes,2,5,No,1
+392,Male,25,Kanpur,Student,1,0,8.5,3,0,'7-8 hours',Moderate,BA,Yes,11,4,Yes,0
+398,Male,19,Mumbai,Student,2,0,7.09,4,0,'7-8 hours',Healthy,'Class 12',No,11,1,Yes,0
+407,Female,34,Surat,Student,3,0,9.82,3,0,'More than 8 hours',Healthy,MSc,Yes,12,5,No,0
+408,Male,24,Agra,Student,1,0,8.89,4,0,'5-6 hours',Healthy,M.Tech,No,10,2,No,0
+414,Male,33,Hyderabad,Student,5,0,7.94,3,0,'Less than 5 hours',Moderate,B.Ed,No,8,1,No,0
+420,Male,32,Patna,Student,3,0,9.11,5,0,'7-8 hours',Moderate,MBBS,Yes,5,5,Yes,1
+421,Male,18,Bhopal,Student,3,0,6.75,4,0,'7-8 hours',Moderate,'Class 12',Yes,6,4,No,1
+423,Female,31,Indore,Student,1,0,7.53,4,0,'Less than 5 hours',Unhealthy,M.Com,Yes,7,1,Yes,0
+425,Female,25,Kalyan,Student,3,0,9.49,5,0,'7-8 hours',Healthy,BHM,No,9,2,No,0
+429,Male,20,Surat,Student,1,0,9.01,4,0,'5-6 hours',Unhealthy,'Class 12',No,3,3,No,0
+441,Male,31,Ghaziabad,Student,2,0,7.64,1,0,'7-8 hours',Unhealthy,MSc,No,0,1,Yes,0
+447,Male,24,Surat,Student,5,0,5.27,1,0,'7-8 hours',Unhealthy,MD,Yes,6,3,Yes,1
+454,Male,24,Lucknow,Student,5,0,8.74,2,0,'Less than 5 hours',Unhealthy,B.Pharm,Yes,8,4,No,1
+455,Female,23,Rajkot,Student,5,0,6,2,0,'5-6 hours',Healthy,MSc,No,0,3,Yes,1
+457,Female,25,Varanasi,Student,2,0,9.44,1,0,'More than 8 hours',Moderate,BSc,Yes,7,3,Yes,1
+464,Male,25,Srinagar,Student,2,0,5.75,3,0,'More than 8 hours',Unhealthy,BSc,Yes,5,5,Yes,1
+467,Female,25,Ghaziabad,Student,1,0,7.51,2,0,'More than 8 hours',Moderate,B.Arch,Yes,7,1,Yes,0
+475,Female,28,Kalyan,Student,2,0,6.37,1,0,'5-6 hours',Unhealthy,BE,Yes,4,5,No,1
+477,Female,20,Ahmedabad,Student,4,0,6.95,4,0,'More than 8 hours',Unhealthy,'Class 12',Yes,12,5,No,1
+484,Female,24,Faridabad,Student,1,0,7.1,5,0,'Less than 5 hours',Moderate,LLM,Yes,6,5,No,1
+487,Male,23,Ludhiana,Student,1,0,9.66,4,0,'5-6 hours',Moderate,B.Tech,No,12,3,No,0
+491,Male,19,Pune,Student,3,0,9.05,1,0,'More than 8 hours',Moderate,'Class 12',No,1,5,No,1
+494,Female,24,Hyderabad,Student,3,0,6.38,3,0,'Less than 5 hours',Healthy,MCA,No,11,4,Yes,1
+503,Female,34,Surat,Student,2,0,8.5,5,0,'More than 8 hours',Unhealthy,BSc,No,1,2,Yes,0
+508,Female,25,Ghaziabad,Student,2,0,7.09,4,0,'5-6 hours',Healthy,B.Arch,No,8,4,Yes,0
+509,Male,28,Nashik,Student,1,0,8.97,2,0,'7-8 hours',Unhealthy,BBA,No,3,4,No,0
+510,Female,27,Bhopal,Student,3,0,8.95,1,0,'More than 8 hours',Healthy,BBA,Yes,4,4,Yes,1
+522,Male,22,Pune,Student,2,0,9.88,4,0,'More than 8 hours',Healthy,BSc,No,0,2,Yes,0
+523,Male,27,Kolkata,Student,4,0,6.75,1,0,'5-6 hours',Healthy,BHM,Yes,10,4,No,0
+525,Female,34,Hyderabad,Student,3,0,5.32,3,0,'7-8 hours',Unhealthy,B.Tech,Yes,7,4,Yes,1
+529,Male,22,Nagpur,Student,4,0,6.27,4,0,'5-6 hours',Moderate,B.Com,Yes,10,3,No,1
+530,Male,23,Lucknow,Student,3,0,7.7,2,0,'More than 8 hours',Unhealthy,M.Com,No,11,3,Yes,0
+534,Male,24,Kalyan,Student,3,0,9.66,1,0,'Less than 5 hours',Healthy,M.Pharm,Yes,9,1,Yes,1
+535,Male,21,Delhi,Student,5,0,8.1,1,0,'More than 8 hours',Moderate,B.Arch,Yes,9,3,No,1
+538,Male,26,Vasai-Virar,Student,4,0,9.59,2,0,'Less than 5 hours',Unhealthy,BSc,No,11,5,Yes,1
+539,Female,24,Kolkata,Student,5,0,8.96,1,0,'5-6 hours',Moderate,BCA,Yes,12,5,No,1
+541,Male,34,Kolkata,Student,2,0,7.51,5,0,'Less than 5 hours',Moderate,MSc,No,7,1,Yes,0
+543,Female,29,Agra,Student,5,0,5.32,1,0,'Less than 5 hours',Unhealthy,ME,No,11,1,Yes,0
+556,Male,33,Visakhapatnam,Student,1,0,8.95,3,0,'5-6 hours',Unhealthy,MBBS,Yes,10,3,No,1
+580,Male,21,Patna,Student,1,0,8.5,3,0,'5-6 hours',Healthy,BCA,Yes,10,3,Yes,1
+587,Female,33,Delhi,Student,2,0,5.51,5,0,'Less than 5 hours',Unhealthy,BSc,Yes,12,1,No,1
+589,Male,28,Lucknow,Student,4,0,7.43,2,0,'More than 8 hours',Healthy,MBA,Yes,6,5,Yes,1
+592,Male,27,Jaipur,Student,2,0,8.79,1,0,'5-6 hours',Unhealthy,MCA,Yes,8,4,No,1
+594,Male,33,Meerut,Student,2,0,9.95,4,0,'Less than 5 hours',Moderate,M.Tech,No,0,2,No,0
+595,Female,18,Delhi,Student,5,0,9.79,5,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,10,5,Yes,1
+598,Female,20,Kolkata,Student,5,0,5.37,4,0,'Less than 5 hours',Moderate,'Class 12',Yes,12,3,Yes,1
+608,Female,19,Mumbai,Student,3,0,6.86,4,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,12,3,Yes,1
+609,Male,21,Ahmedabad,'Civil Engineer',5,0,7.83,1,0,'5-6 hours',Healthy,MSc,Yes,11,3,Yes,1
+611,Male,32,Vasai-Virar,Student,2,0,8.32,1,0,'Less than 5 hours',Unhealthy,B.Tech,Yes,12,4,No,1
+617,Male,32,Delhi,Student,3,0,5.51,2,0,'7-8 hours',Moderate,LLB,Yes,7,4,Yes,1
+620,Male,33,Rajkot,Student,3,0,9.74,1,0,'Less than 5 hours',Healthy,MD,No,5,1,Yes,0
+623,Female,23,Bangalore,Student,5,0,5.66,1,0,'Less than 5 hours',Unhealthy,MCA,Yes,11,4,No,1
+626,Male,24,Kalyan,Student,3,0,7.48,4,0,'Less than 5 hours',Unhealthy,M.Com,Yes,10,4,Yes,1
+632,Female,20,Srinagar,Student,4,0,8.89,3,0,'More than 8 hours',Unhealthy,'Class 12',Yes,6,4,No,1
+658,Female,24,Ahmedabad,Student,5,0,8.23,2,0,'Less than 5 hours',Moderate,B.Arch,Yes,4,3,Yes,1
+660,Male,22,Chennai,Student,5,0,8.81,1,0,'Less than 5 hours',Unhealthy,MCA,No,8,1,Yes,1
+662,Male,26,Nashik,Student,5,0,6.03,4,0,'More than 8 hours',Unhealthy,BCA,No,11,2,No,0
+668,Female,18,Vasai-Virar,Student,5,0,9.44,4,0,'More than 8 hours',Unhealthy,'Class 12',Yes,3,5,No,1
+671,Male,26,Vasai-Virar,Student,3,0,7.25,3,0,'7-8 hours',Unhealthy,MD,No,9,5,No,0
+673,Male,33,Lucknow,Student,1,0,5.56,1,0,'More than 8 hours',Unhealthy,MD,No,9,3,No,0
+676,Female,19,Visakhapatnam,Student,3,0,5.68,1,0,'5-6 hours',Moderate,'Class 12',Yes,10,5,Yes,0
+681,Male,26,Jaipur,Student,3,0,5.14,3,0,'7-8 hours',Healthy,MSc,No,12,1,No,0
+683,Female,34,Lucknow,Student,3,0,7.61,2,0,'Less than 5 hours',Moderate,BE,Yes,3,4,No,0
+687,Female,22,Pune,Student,1,0,6.17,4,0,'7-8 hours',Healthy,BCA,No,10,5,No,1
+688,Female,28,Surat,Student,2,0,8.17,3,0,'Less than 5 hours',Unhealthy,B.Tech,No,7,4,Yes,1
+695,Male,31,Lucknow,Student,5,0,9.87,5,0,'Less than 5 hours',Unhealthy,LLB,No,12,2,No,0
+696,Female,18,Varanasi,Student,3,0,9.86,4,0,'More than 8 hours',Healthy,'Class 12',Yes,9,2,No,1
+697,Male,32,Thane,Student,2,0,9.21,3,0,'5-6 hours',Unhealthy,M.Tech,Yes,0,5,Yes,1
+701,Female,19,Jaipur,Student,3,0,5.46,4,0,'More than 8 hours',Unhealthy,'Class 12',Yes,11,5,No,1
+707,Male,20,Mumbai,Student,5,0,8.96,2,0,'More than 8 hours',Unhealthy,'Class 12',Yes,1,3,No,1
+708,Male,28,Nagpur,Student,2,0,7.94,2,0,'5-6 hours',Unhealthy,BCA,Yes,2,5,Yes,1
+709,Male,19,Bhopal,Student,2,0,8.58,4,0,'Less than 5 hours',Healthy,'Class 12',Yes,10,4,No,1
+710,Male,34,Pune,Student,3,0,8.5,1,0,'More than 8 hours',Moderate,B.Tech,No,3,1,No,0
+712,Male,20,Vadodara,Student,3,0,8.74,5,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,6,2,No,1
+713,Male,18,Surat,Student,1,0,5.14,5,0,'More than 8 hours',Moderate,'Class 12',No,12,2,No,0
+714,Female,29,Patna,Student,3,0,8.75,5,0,'7-8 hours',Moderate,BCA,No,10,5,No,1
+716,Male,24,Kolkata,Student,1,0,9.71,4,0,'Less than 5 hours',Moderate,M.Tech,No,1,1,No,0
+724,Male,33,Jaipur,Student,4,0,7.25,3,0,'5-6 hours',Healthy,BSc,Yes,1,5,No,0
+728,Male,34,Nashik,Student,1,0,6.16,4,0,'Less than 5 hours',Moderate,B.Tech,Yes,10,4,No,0
+733,Female,29,Agra,Student,1,0,9.5,2,0,'7-8 hours',Moderate,B.Com,No,9,2,No,0
+735,Male,27,Lucknow,Student,4,0,7.99,2,0,'5-6 hours',Unhealthy,B.Com,Yes,10,2,Yes,1
+737,Female,31,Srinagar,Student,3,0,9.86,2,0,'Less than 5 hours',Unhealthy,MD,Yes,9,1,Yes,1
+744,Male,30,Ludhiana,Student,5,0,5.67,3,0,'Less than 5 hours',Moderate,B.Tech,Yes,4,1,No,1
+746,Female,31,Thane,Student,4,0,8.92,2,0,'Less than 5 hours',Moderate,MA,No,8,2,No,0
+749,Male,26,Rajkot,Student,2,0,6.19,5,0,'5-6 hours',Healthy,B.Arch,Yes,12,3,Yes,0
+750,Male,21,Patna,Student,4,0,5.76,1,0,'Less than 5 hours',Unhealthy,B.Ed,Yes,9,4,Yes,1
+754,Female,34,Lucknow,Student,3,0,5.9,3,0,'Less than 5 hours',Moderate,B.Ed,Yes,3,1,No,0
+758,Male,24,Mumbai,Student,1,0,5.74,2,0,'More than 8 hours',Moderate,B.Com,No,11,1,No,0
+759,Male,21,Varanasi,Student,3,0,8.04,2,0,'5-6 hours',Unhealthy,B.Com,Yes,9,3,Yes,1
+763,Female,31,Nagpur,Student,5,0,6.25,2,0,'5-6 hours',Unhealthy,B.Tech,Yes,9,3,No,1
+764,Male,20,Lucknow,Student,5,0,5.11,4,0,'More than 8 hours',Unhealthy,'Class 12',Yes,11,5,No,1
+770,Male,34,Kanpur,Student,4,0,7.94,3,0,'5-6 hours',Moderate,LLM,No,12,1,No,0
+774,Female,30,Ludhiana,Student,4,0,5.58,5,0,'Less than 5 hours',Healthy,M.Com,Yes,4,3,Yes,1
+777,Male,30,Surat,Student,1,0,5.65,5,0,'7-8 hours',Unhealthy,M.Ed,Yes,12,4,Yes,0
+779,Male,20,Bangalore,Student,5,0,9.72,1,0,'5-6 hours',Healthy,'Class 12',Yes,11,2,No,1
+781,Female,22,Jaipur,Student,1,0,9.89,1,0,'7-8 hours',Moderate,B.Com,Yes,12,3,Yes,0
+785,Male,18,Agra,Student,5,0,5.37,4,0,'More than 8 hours',Healthy,'Class 12',Yes,9,2,Yes,1
+793,Female,27,Pune,Student,3,0,5.59,4,0,'Less than 5 hours',Healthy,PhD,Yes,6,5,Yes,1
+796,Male,26,Meerut,Student,5,0,5.37,3,0,'7-8 hours',Moderate,BE,Yes,10,2,Yes,1
+804,Male,24,Ludhiana,Student,5,0,5.7,5,0,'7-8 hours',Healthy,B.Pharm,Yes,5,3,Yes,1
+811,Female,28,Vasai-Virar,Student,2,0,8.95,4,0,'5-6 hours',Healthy,BSc,Yes,2,5,Yes,1
+813,Female,24,Pune,Student,3,0,8.74,2,0,'7-8 hours',Unhealthy,B.Arch,Yes,0,4,Yes,1
+814,Female,32,Thane,Student,1,0,8.03,3,0,'5-6 hours',Unhealthy,BA,Yes,4,4,No,1
+821,Female,21,Patna,Student,5,0,5.75,1,0,'7-8 hours',Healthy,MBBS,Yes,11,4,No,1
+823,Male,19,Visakhapatnam,Student,3,0,6.61,5,0,'7-8 hours',Moderate,'Class 12',No,12,1,Yes,0
+825,Female,24,Hyderabad,Student,2,0,9.41,4,0,'7-8 hours',Moderate,M.Ed,No,11,1,Yes,0
+831,Female,26,Ghaziabad,Student,1,0,5.68,4,0,'7-8 hours',Healthy,B.Arch,No,8,5,No,0
+832,Female,20,Srinagar,Student,2,0,8.64,3,0,'More than 8 hours',Unhealthy,'Class 12',No,4,3,Yes,0
+836,Male,19,Kanpur,Student,3,0,7.21,5,0,'Less than 5 hours',Moderate,'Class 12',Yes,8,3,Yes,1
+839,Male,32,Hyderabad,Student,4,0,7.92,2,0,'More than 8 hours',Moderate,MBBS,Yes,7,2,No,0
+843,Female,23,Bhopal,Student,5,0,5.74,2,0,'5-6 hours',Moderate,B.Ed,Yes,2,3,No,0
+847,Female,23,Vasai-Virar,Student,4,0,8.28,1,0,'Less than 5 hours',Moderate,M.Tech,Yes,10,3,No,1
+852,Male,29,Vasai-Virar,Student,3,0,8.59,2,0,'7-8 hours',Moderate,MCA,No,8,5,Yes,1
+854,Female,29,Ahmedabad,Student,3,0,6.04,4,0,'7-8 hours',Moderate,B.Ed,No,8,2,Yes,0
+861,Female,27,Srinagar,Student,1,0,9.13,2,0,'7-8 hours',Unhealthy,MA,Yes,4,4,No,0
+862,Female,33,Faridabad,Student,5,0,8.08,4,0,'More than 8 hours',Moderate,'Class 12',No,9,1,Yes,1
+863,Female,33,Patna,Student,2,0,8.5,1,0,'More than 8 hours',Unhealthy,MSc,Yes,8,2,Yes,1
+875,Male,31,Faridabad,Student,4,0,8.38,5,0,'Less than 5 hours',Moderate,LLB,No,12,2,No,0
+877,Male,25,Nashik,Student,4,0,9.44,4,0,'7-8 hours',Moderate,B.Ed,Yes,10,5,Yes,1
+882,Female,29,Pune,Student,1,0,9.96,5,0,'Less than 5 hours',Healthy,LLM,No,6,4,Yes,0
+897,Female,18,Thane,Student,4,0,8.04,4,0,'More than 8 hours',Healthy,'Class 12',Yes,11,4,Yes,1
+907,Female,18,Vadodara,Student,1,0,5.12,5,0,'7-8 hours',Healthy,'Class 12',Yes,7,4,Yes,0
+910,Male,22,Kolkata,Student,1,0,7.64,3,0,'Less than 5 hours',Moderate,MSc,Yes,11,4,No,1
+912,Male,24,Ghaziabad,Student,5,0,8.04,1,0,'5-6 hours',Moderate,BSc,Yes,5,4,Yes,1
+918,Male,24,Kolkata,Student,3,0,9.44,5,0,'7-8 hours',Unhealthy,B.Ed,Yes,11,5,No,1
+923,Male,30,Bhopal,Student,4,0,8.35,5,0,'7-8 hours',Unhealthy,'Class 12',No,11,2,Yes,0
+926,Male,33,Srinagar,Student,3,0,7.07,5,0,'5-6 hours',Moderate,PhD,No,7,1,Yes,0
+935,Male,34,Kalyan,Student,1,0,9.6,3,0,'More than 8 hours',Healthy,M.Tech,No,8,3,Yes,0
+941,Male,32,Bhopal,Student,4,0,6.08,1,0,'7-8 hours',Moderate,MCA,Yes,7,1,No,1
+947,Male,33,Kanpur,Student,2,0,9.54,3,0,'7-8 hours',Healthy,MA,No,11,4,Yes,0
+949,Female,20,Pune,Student,5,0,6.17,2,0,'More than 8 hours',Healthy,'Class 12',Yes,7,5,Yes,1
+953,Female,25,Agra,Student,2,0,9.95,1,0,'More than 8 hours',Unhealthy,B.Pharm,Yes,10,5,No,1
+955,Male,24,Hyderabad,Student,5,0,9.05,2,0,'7-8 hours',Healthy,B.Tech,Yes,8,4,Yes,1
+956,Male,23,Agra,Student,4,0,9.24,2,0,'Less than 5 hours',Healthy,B.Com,Yes,7,2,No,1
+965,Female,30,Kolkata,Student,1,0,8.54,3,0,'Less than 5 hours',Moderate,M.Ed,No,12,1,Yes,0
+978,Female,39,Kalyan,Student,5,0,6.51,4,0,'7-8 hours',Moderate,M.Tech,Yes,7,2,No,1
+984,Male,22,Bangalore,Student,1,0,7.25,5,0,'7-8 hours',Unhealthy,BE,Yes,9,5,Yes,1
+991,Male,23,Patna,Student,5,0,8.78,1,0,'5-6 hours',Unhealthy,B.Com,Yes,6,3,Yes,1
+995,Male,31,Lucknow,Student,1,0,9.71,1,0,'More than 8 hours',Moderate,M.Tech,Yes,2,3,Yes,1
+997,Male,20,Mumbai,Student,1,0,8.13,1,0,'Less than 5 hours',Unhealthy,'Class 12',No,10,1,Yes,0
+1003,Male,20,Chennai,Student,2,0,8.93,2,0,'5-6 hours',Unhealthy,'Class 12',Yes,10,5,Yes,1
+1006,Male,32,Kalyan,Student,5,0,9.66,1,0,'5-6 hours',Unhealthy,BSc,Yes,4,4,No,1
+1012,Female,22,Agra,Student,4,0,5.56,2,0,'Less than 5 hours',Unhealthy,BHM,Yes,8,4,No,1
+1015,Female,27,Jaipur,Student,3,0,8.91,1,0,'Less than 5 hours',Unhealthy,BSc,No,7,1,No,0
+1022,Female,18,Ahmedabad,Student,3,0,6.16,5,0,'7-8 hours',Moderate,'Class 12',Yes,5,4,Yes,0
+1029,Female,28,Faridabad,Student,4,0,9.04,2,0,'7-8 hours',Moderate,B.Com,Yes,2,1,No,1
+1032,Female,22,Surat,Student,3,0,6.83,1,0,'Less than 5 hours',Healthy,BCA,Yes,4,5,No,1
+1047,Female,20,Chennai,Student,5,0,7.7,1,0,'7-8 hours',Unhealthy,'Class 12',Yes,9,3,No,1
+1049,Male,20,Ludhiana,Student,3,0,5.67,2,0,'More than 8 hours',Unhealthy,'Class 12',Yes,12,5,No,1
+1054,Male,30,Indore,Student,1,0,6.51,3,0,'7-8 hours',Unhealthy,BHM,No,7,2,Yes,0
+1055,Male,18,Srinagar,Student,1,0,6.21,5,0,'More than 8 hours',Moderate,'Class 12',No,6,4,Yes,0
+1065,Female,26,Nashik,Student,4,0,8.28,3,0,'7-8 hours',Unhealthy,MBBS,Yes,10,1,No,1
+1069,Male,34,Patna,Student,1,0,9.74,3,0,'More than 8 hours',Moderate,B.Ed,No,12,1,No,0
+1075,Male,20,Lucknow,Student,5,0,9.6,5,0,'7-8 hours',Healthy,'Class 12',Yes,12,3,No,1
+1079,Male,20,Srinagar,Student,2,0,6.25,3,0,'5-6 hours',Unhealthy,'Class 12',Yes,2,1,No,0
+1084,Female,33,Vadodara,Student,3,0,7.1,4,0,'More than 8 hours',Healthy,B.Pharm,No,6,3,No,0
+1087,Female,20,Hyderabad,Student,3,0,5.85,2,0,'7-8 hours',Unhealthy,'Class 12',No,8,5,Yes,1
+1091,Female,28,Kalyan,Student,2,0,9.24,5,0,'7-8 hours',Moderate,M.Ed,Yes,4,4,No,1
+1093,Female,26,Srinagar,Student,4,0,7.74,1,0,'Less than 5 hours',Moderate,MCA,Yes,0,5,Yes,1
+1094,Male,25,Vadodara,Student,3,0,6.41,3,0,'7-8 hours',Moderate,M.Ed,Yes,9,5,No,1
+1105,Female,28,Ahmedabad,Student,5,0,7.1,2,0,'7-8 hours',Healthy,MBBS,Yes,2,2,Yes,0
+1108,Female,29,Chennai,Student,5,0,8.9,3,0,'Less than 5 hours',Moderate,BE,No,4,5,Yes,1
+1117,Male,34,Lucknow,Student,3,0,9.6,4,0,'Less than 5 hours',Healthy,M.Tech,No,12,3,Yes,0
+1126,Female,29,Ghaziabad,Student,2,0,5.88,3,0,'Less than 5 hours',Healthy,M.Com,No,0,2,No,1
+1130,Female,28,Srinagar,Student,1,0,6.16,3,0,'Less than 5 hours',Moderate,BHM,No,5,2,Yes,0
+1131,Female,33,Vadodara,Student,1,0,9.72,5,0,'Less than 5 hours',Moderate,BHM,No,4,5,Yes,0
+1134,Male,18,Vasai-Virar,Student,5,0,6.19,1,0,'7-8 hours',Moderate,'Class 12',Yes,4,2,No,1
+1148,Male,19,Ahmedabad,Student,5,0,7.75,1,0,'5-6 hours',Healthy,'Class 12',Yes,10,4,Yes,1
+1152,Female,27,Kalyan,Student,3,0,7.88,1,0,'More than 8 hours',Unhealthy,BBA,Yes,10,1,Yes,1
+1154,Female,29,Pune,Student,1,0,6.83,3,0,'Less than 5 hours',Healthy,BE,No,12,1,No,0
+1156,Female,18,Kolkata,Student,5,0,5.42,5,0,'7-8 hours',Unhealthy,'Class 12',Yes,9,2,Yes,1
+1158,Male,27,Srinagar,Student,5,0,7.52,5,0,'Less than 5 hours',Healthy,LLB,No,12,5,Yes,1
+1165,Male,34,Kanpur,Student,2,0,7.68,5,0,'7-8 hours',Moderate,'Class 12',No,5,1,No,0
+1168,Female,19,Patna,Student,1,0,5.85,4,0,'7-8 hours',Moderate,'Class 12',No,5,5,Yes,0
+1170,Female,30,Thane,Student,5,0,7.88,3,0,'5-6 hours',Unhealthy,B.Ed,Yes,1,1,No,1
+1177,Female,25,Vasai-Virar,Student,3,0,8.4,4,0,'More than 8 hours',Healthy,BHM,No,1,2,Yes,0
+1179,Female,20,Ludhiana,Student,5,0,8.95,3,0,'Less than 5 hours',Moderate,'Class 12',Yes,7,1,No,1
+1186,Female,20,Vasai-Virar,Student,5,0,8.9,2,0,'Less than 5 hours',Moderate,'Class 12',Yes,6,5,Yes,1
+1187,Female,20,Surat,Student,5,0,7.64,1,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,10,4,No,1
+1197,Female,29,Lucknow,Student,2,0,9.39,4,0,'5-6 hours',Unhealthy,BSc,No,0,2,Yes,0
+1201,Male,24,Mumbai,Student,1,0,6.84,2,0,'Less than 5 hours',Moderate,B.Pharm,No,7,1,Yes,0
+1213,Male,34,Hyderabad,Student,3,0,5.11,2,0,'Less than 5 hours',Unhealthy,M.Pharm,Yes,6,3,Yes,0
+1215,Male,31,Varanasi,Student,2,0,8.04,3,0,'7-8 hours',Moderate,B.Ed,No,2,1,Yes,0
+1221,Male,23,Rajkot,Student,2,0,8.64,4,0,'Less than 5 hours',Unhealthy,M.Com,No,1,4,No,0
+1222,Female,25,Vadodara,Student,2,0,5.99,1,0,'5-6 hours',Unhealthy,BHM,Yes,11,2,Yes,1
+1225,Female,24,Hyderabad,Student,4,0,8.59,2,0,'5-6 hours',Unhealthy,B.Arch,Yes,8,5,No,1
+1232,Female,25,Varanasi,Student,2,0,9.39,2,0,'5-6 hours',Moderate,LLB,No,8,1,No,0
+1240,Male,23,Agra,Student,3,0,6.99,1,0,'5-6 hours',Healthy,B.Arch,No,7,1,No,0
+1241,Male,21,Nagpur,Student,5,0,6.83,4,0,'7-8 hours',Healthy,MCA,Yes,10,1,Yes,1
+1244,Male,22,Thane,Student,1,0,7.09,3,0,'5-6 hours',Moderate,MBA,Yes,6,1,Yes,0
+1252,Male,33,Bhopal,Student,2,0,8.62,4,0,'More than 8 hours',Moderate,BCA,Yes,0,2,No,0
+1254,Male,24,Kalyan,Student,4,0,9.54,2,0,'Less than 5 hours',Unhealthy,MBA,Yes,5,1,No,1
+1255,Female,25,Rajkot,Student,4,0,8.53,3,0,'Less than 5 hours',Healthy,BA,No,2,1,No,0
+1263,Male,33,Agra,Student,3,0,7.1,3,0,'Less than 5 hours',Moderate,LLB,No,4,1,Yes,0
+1275,Male,27,Kolkata,Student,1,0,7.47,1,0,'Less than 5 hours',Moderate,BHM,Yes,12,1,No,0
+1278,Female,31,Visakhapatnam,Student,3,0,9.93,3,0,'More than 8 hours',Healthy,B.Ed,No,12,2,No,0
+1286,Female,19,Indore,Student,5,0,6.78,5,0,'More than 8 hours',Healthy,'Class 12',Yes,7,5,No,1
+1296,Male,29,Mumbai,Student,4,0,9.59,3,0,'More than 8 hours',Moderate,B.Ed,Yes,11,4,Yes,1
+1301,Male,23,Kalyan,Student,3,0,9.93,1,0,'7-8 hours',Moderate,MBA,Yes,9,5,No,1
+1305,Male,25,Rajkot,Student,1,0,7.52,4,0,'Less than 5 hours',Moderate,MBBS,No,0,2,No,0
+1307,Male,34,Srinagar,Student,3,0,6.42,2,0,'5-6 hours',Moderate,M.Pharm,Yes,4,5,Yes,1
+1319,Male,18,Ahmedabad,Student,5,0,8.35,1,0,'More than 8 hours',Unhealthy,'Class 12',Yes,12,5,No,1
+1324,Male,29,Hyderabad,Student,2,0,6.08,4,0,'7-8 hours',Healthy,MBA,No,6,3,No,0
+1328,Female,25,Vasai-Virar,Student,3,0,7.1,1,0,'Less than 5 hours',Healthy,MBBS,Yes,11,4,Yes,1
+1329,Male,29,Srinagar,Student,3,0,9.95,4,0,'5-6 hours',Unhealthy,LLB,Yes,10,1,No,1
+1334,Male,28,Meerut,Student,3,0,9.74,5,0,'Less than 5 hours',Healthy,MBBS,No,11,2,Yes,0
+1336,Female,31,Faridabad,Student,2,0,9.92,3,0,'5-6 hours',Unhealthy,B.Com,Yes,3,1,No,0
+1347,Male,30,Surat,Student,3,0,8.39,3,0,'Less than 5 hours',Unhealthy,M.Com,Yes,5,3,No,1
+1348,Male,24,Ghaziabad,Student,5,0,8.96,4,0,'5-6 hours',Healthy,LLM,Yes,11,5,No,1
+1355,Male,26,Vadodara,Student,4,0,8.95,4,0,'5-6 hours',Unhealthy,B.Ed,Yes,7,4,Yes,1
+1360,Female,29,Visakhapatnam,Student,2,0,5.89,2,0,'5-6 hours',Moderate,MCA,Yes,10,2,No,1
+1361,Male,22,Ludhiana,Student,3,0,5.76,4,0,'7-8 hours',Unhealthy,M.Com,Yes,10,1,No,1
+1369,Female,31,Chennai,Student,4,0,6,5,0,'5-6 hours',Moderate,M.Ed,No,10,2,Yes,1
+1370,Female,29,Ahmedabad,Student,4,0,5.58,4,0,'Less than 5 hours',Moderate,MBA,Yes,4,1,Yes,1
+1373,Female,18,Mumbai,Student,4,0,7.22,5,0,'More than 8 hours',Healthy,'Class 12',No,10,2,No,0
+1379,Female,27,Vadodara,Student,5,0,6.81,2,0,'7-8 hours',Unhealthy,M.Ed,No,10,2,Yes,0
+1381,Male,32,Indore,Student,3,0,9.02,5,0,'7-8 hours',Moderate,MBBS,Yes,8,1,Yes,1
+1384,Male,30,Delhi,Student,2,0,8.23,2,0,'More than 8 hours',Healthy,MD,No,0,2,No,0
+1391,Male,26,Agra,Student,4,0,9.88,1,0,'5-6 hours',Healthy,BBA,No,7,2,Yes,1
+1393,Male,28,Vadodara,Student,4,0,7.52,1,0,'More than 8 hours',Unhealthy,BE,Yes,9,4,Yes,1
+1396,Male,28,Varanasi,Student,4,0,9.11,4,0,'5-6 hours',Moderate,BHM,No,7,1,Yes,0
+1399,Female,25,Vasai-Virar,Student,2,0,9.54,4,0,'7-8 hours',Healthy,BHM,No,9,1,No,0
+1403,Female,33,Pune,Student,2,0,8.58,4,0,'Less than 5 hours',Healthy,'Class 12',No,9,3,No,0
+1411,Male,24,Kolkata,Student,5,0,9.6,4,0,'7-8 hours',Moderate,M.Pharm,No,8,3,No,0
+1417,Female,22,Varanasi,Student,2,0,9.54,3,0,'More than 8 hours',Healthy,BBA,Yes,10,3,No,1
+1425,Male,34,Agra,Student,1,0,9.97,5,0,'More than 8 hours',Moderate,BCA,No,0,5,No,0
+1428,Male,29,Srinagar,Student,3,0,9.63,3,3,'7-8 hours',Moderate,M.Pharm,No,8,5,No,0
+1431,Male,32,Nashik,Student,2,0,8.95,5,0,'Less than 5 hours',Moderate,M.Tech,Yes,5,1,No,0
+1432,Female,31,Visakhapatnam,Student,5,0,9.39,5,0,'Less than 5 hours',Moderate,'Class 12',No,1,1,Yes,1
+1439,Male,28,Vasai-Virar,Student,2,0,5.7,5,0,'Less than 5 hours',Unhealthy,BCA,Yes,11,4,Yes,1
+1444,Male,30,Varanasi,Student,5,0,7.7,5,0,'5-6 hours',Moderate,B.Com,Yes,12,2,Yes,1
+1450,Female,26,Surat,Student,1,0,9.67,3,0,'Less than 5 hours',Unhealthy,'Class 12',No,1,5,No,0
+1453,Male,19,Kolkata,Student,4,0,9.41,2,0,'More than 8 hours',Healthy,'Class 12',No,12,5,Yes,1
+1457,Female,21,Bangalore,Student,5,0,8.35,1,0,'More than 8 hours',Healthy,BSc,Yes,12,4,Yes,1
+1464,Male,22,Thane,Student,4,0,6.78,3,0,'Less than 5 hours',Unhealthy,B.Com,Yes,10,2,No,1
+1467,Male,23,Thane,Student,4,0,6.37,2,0,'Less than 5 hours',Moderate,B.Com,No,11,5,Yes,1
+1472,Female,25,Varanasi,Student,2,0,5.64,1,0,'Less than 5 hours',Moderate,B.Ed,Yes,12,4,Yes,1
+1474,Female,24,Ghaziabad,Student,3,0,6.99,4,0,'More than 8 hours',Moderate,'Class 12',Yes,9,1,Yes,0
+1475,Female,18,Kolkata,Student,3,0,5.41,3,0,'7-8 hours',Moderate,'Class 12',Yes,7,4,Yes,1
+1484,Female,19,Meerut,Student,5,0,6.41,3,0,'Less than 5 hours',Moderate,'Class 12',Yes,10,5,Yes,1
+1488,Female,30,Lucknow,Student,3,0,7.27,3,0,'7-8 hours',Moderate,BA,No,12,2,No,0
+1493,Female,35,Meerut,Student,5,0,5.32,2,0,'7-8 hours',Moderate,PhD,No,3,4,Yes,0
+1494,Female,20,Chennai,Student,5,0,5.99,3,0,'7-8 hours',Moderate,'Class 12',No,4,5,No,1
+1498,Male,20,Lucknow,Student,3,0,9.93,2,0,'7-8 hours',Moderate,'Class 12',Yes,2,4,No,1
+1499,Female,18,Pune,Student,5,0,8.7,4,0,'Less than 5 hours',Healthy,'Class 12',Yes,5,1,No,0
+1501,Female,18,Thane,Student,3,0,8.5,2,0,'More than 8 hours',Healthy,'Class 12',Yes,10,1,Yes,1
+1512,Female,30,Ghaziabad,Student,2,0,9.44,3,0,'5-6 hours',Moderate,B.Arch,No,4,2,Yes,0
+1513,Female,33,Ludhiana,Student,1,0,6.05,3,0,'7-8 hours',Moderate,MBA,No,7,1,No,0
+1515,Female,29,Vasai-Virar,Student,5,0,9.6,2,0,'5-6 hours',Moderate,B.Arch,No,12,3,Yes,1
+1526,Female,28,Srinagar,Student,1,0,8.7,4,0,'Less than 5 hours',Unhealthy,MD,Yes,7,3,No,1
+1528,Male,26,Rajkot,Student,1,0,6.85,4,0,'More than 8 hours',Unhealthy,BBA,No,0,1,Yes,0
+1529,Male,22,Jaipur,Student,4,0,9.33,4,0,'More than 8 hours',Moderate,BCA,Yes,9,2,No,0
+1535,Female,28,Varanasi,Student,5,0,7.25,4,0,'Less than 5 hours',Moderate,BCA,Yes,12,2,Yes,1
+1536,Male,32,Srinagar,Student,4,0,5.81,5,0,'7-8 hours',Unhealthy,ME,Yes,12,2,Yes,1
+1545,Female,31,Surat,Student,4,0,8.17,3,0,'7-8 hours',Healthy,MCA,Yes,11,4,No,1
+1565,Male,20,Rajkot,Student,4,0,6.03,3,0,'7-8 hours',Unhealthy,'Class 12',Yes,4,2,Yes,1
+1580,Female,30,Ghaziabad,Student,5,0,5.56,2,0,'7-8 hours',Unhealthy,MBBS,Yes,11,3,Yes,1
+1582,Male,27,Lucknow,Student,1,0,6.78,4,0,'Less than 5 hours',Unhealthy,B.Ed,No,2,1,Yes,0
+1586,Male,26,Ahmedabad,Student,4,0,6.53,3,0,'5-6 hours',Moderate,B.Pharm,Yes,6,1,No,1
+1589,Male,34,Vasai-Virar,Student,3,0,5.12,5,0,'More than 8 hours',Healthy,LLM,Yes,9,3,Yes,0
+1591,Female,20,Pune,Student,2,0,5.74,4,0,'5-6 hours',Healthy,'Class 12',No,10,1,Yes,0
+1593,Male,22,Mumbai,Student,3,0,6.16,1,0,'Less than 5 hours',Healthy,MSc,Yes,5,2,No,1
+1600,Female,20,Ludhiana,Student,2,0,5.98,3,0,'5-6 hours',Healthy,'Class 12',No,2,3,Yes,0
+1605,Female,27,Delhi,Student,3,0,9.05,1,0,'7-8 hours',Healthy,LLB,Yes,2,5,No,1
+1609,Female,25,Rajkot,Student,3,0,6.78,2,0,'Less than 5 hours',Unhealthy,B.Ed,Yes,12,4,Yes,1
+1616,Male,19,Delhi,Student,4,0,8.04,3,0,'5-6 hours',Healthy,'Class 12',Yes,10,5,No,1
+1618,Male,29,Ludhiana,Student,5,0,7.38,1,0,'More than 8 hours',Unhealthy,BSc,Yes,10,5,No,1
+1623,Female,18,Bangalore,Student,3,0,5.85,2,0,'7-8 hours',Healthy,'Class 12',No,12,1,Yes,1
+1629,Female,21,Thane,Student,5,0,8.04,2,0,'Less than 5 hours',Healthy,B.Ed,Yes,3,2,No,1
+1632,Female,31,Hyderabad,Student,1,0,8.39,5,0,'Less than 5 hours',Unhealthy,MCA,No,10,1,No,0
+1643,Female,33,Kalyan,Student,4,0,6.02,1,0,'5-6 hours',Moderate,M.Tech,Yes,10,4,Yes,1
+1647,Male,33,Bangalore,Student,5,0,6.74,4,0,'7-8 hours',Moderate,M.Tech,No,7,5,No,1
+1655,Male,21,Bangalore,Student,3,0,5.26,1,0,'More than 8 hours',Moderate,B.Tech,No,8,5,No,0
+1657,Female,21,Kalyan,Student,5,0,6.16,1,0,'5-6 hours',Moderate,BBA,Yes,8,5,No,1
+1659,Male,23,Ghaziabad,Student,4,0,5.75,2,0,'More than 8 hours',Healthy,MSc,Yes,4,3,No,1
+1662,Male,20,Mumbai,Student,4,0,9.11,4,0,'5-6 hours',Unhealthy,'Class 12',Yes,9,5,Yes,1
+1669,Female,20,Mumbai,Student,5,0,8.9,4,0,'7-8 hours',Unhealthy,'Class 12',Yes,7,5,Yes,1
+1675,Female,20,Lucknow,Student,5,0,7.04,4,0,'7-8 hours',Moderate,'Class 12',Yes,12,5,No,1
+1677,Male,20,Thane,Student,5,0,5.74,5,0,'More than 8 hours',Unhealthy,'Class 12',No,4,2,No,0
+1682,Female,33,Indore,Student,4,0,7.72,4,0,'7-8 hours',Moderate,MHM,Yes,4,2,Yes,1
+1683,Male,29,Visakhapatnam,Student,5,0,5.64,4,0,'Less than 5 hours',Healthy,MSc,Yes,6,4,No,1
+1686,Female,21,Bhopal,Student,3,0,5.66,4,0,'5-6 hours',Unhealthy,BCA,No,6,2,Yes,1
+1701,Male,28,Ludhiana,Student,4,0,7.09,1,0,'5-6 hours',Moderate,BHM,Yes,10,3,Yes,1
+1705,Female,25,Lucknow,Student,4,0,7.52,5,0,'More than 8 hours',Moderate,MD,Yes,11,3,Yes,1
+1709,Female,22,Bhopal,Student,3,0,8.96,2,0,'5-6 hours',Healthy,MSc,Yes,4,2,Yes,1
+1746,Female,24,Rajkot,Student,1,0,7.39,3,0,'5-6 hours',Moderate,B.Arch,No,3,1,Yes,0
+1747,Male,19,Kolkata,Student,1,0,5.6,4,0,'Less than 5 hours',Moderate,'Class 12',Yes,3,3,No,0
+1750,Male,32,Vasai-Virar,Student,3,0,5.64,3,0,'7-8 hours',Unhealthy,ME,Yes,7,5,No,1
+1756,Female,25,Vadodara,Student,1,0,9.04,4,0,'5-6 hours',Healthy,B.Com,No,10,1,No,0
+1760,Female,25,Bhopal,Student,5,0,8.04,3,0,'Less than 5 hours',Unhealthy,B.Com,Yes,6,4,No,1
+1762,Male,21,Jaipur,Student,4,0,8.43,1,0,'7-8 hours',Unhealthy,BSc,Yes,4,2,No,1
+1769,Female,28,Mumbai,Student,1,0,9.34,2,0,'Less than 5 hours',Moderate,BBA,No,9,3,Yes,0
+1770,Male,20,Faridabad,Student,3,0,8.78,2,0,'Less than 5 hours',Moderate,'Class 12',Yes,10,4,Yes,1
+1782,Male,26,Rajkot,Student,4,0,5.88,5,0,'More than 8 hours',Unhealthy,BA,Yes,3,1,Yes,0
+1795,Female,19,Lucknow,Student,5,0,6.27,5,0,'5-6 hours',Unhealthy,'Class 12',Yes,10,5,No,1
+1801,Male,25,Kanpur,Student,2,0,7.88,3,0,'5-6 hours',Healthy,M.Ed,Yes,9,4,No,1
+1802,Female,33,Indore,Student,3,0,5.44,5,0,'7-8 hours',Unhealthy,MHM,No,11,1,Yes,0
+1803,Female,20,Ludhiana,Student,2,0,8.52,5,0,'Less than 5 hours',Moderate,'Class 12',No,10,1,Yes,0
+1809,Male,22,Thane,Student,3,0,6.03,3,0,'5-6 hours',Unhealthy,BA,Yes,7,4,Yes,0
+1812,Male,26,Hyderabad,Student,2,0,9.6,4,0,'5-6 hours',Unhealthy,B.Pharm,No,5,1,Yes,0
+1813,Female,20,Chennai,Student,2,0,8.9,3,0,'5-6 hours',Healthy,'Class 12',No,11,2,No,0
+1822,Male,23,Jaipur,Student,1,0,7.48,3,0,'Less than 5 hours',Unhealthy,M.Tech,Yes,2,3,No,1
+1835,Male,33,Jaipur,Student,1,0,9.39,3,0,'5-6 hours',Healthy,BSc,No,0,5,No,0
+1843,Female,20,Indore,Student,4,0,7.1,3,0,'5-6 hours',Moderate,'Class 12',Yes,9,3,No,0
+1848,Female,29,Vasai-Virar,Student,5,0,5.44,3,0,'7-8 hours',Unhealthy,LLM,No,11,1,No,1
+1850,Male,33,Mumbai,Student,1,0,6.37,1,0,'More than 8 hours',Moderate,MCA,No,8,2,No,0
+1856,Male,26,Agra,Student,1,0,9.5,4,0,'More than 8 hours',Healthy,MBBS,Yes,7,4,No,0
+1857,Female,27,Surat,Student,1,0,5.82,4,0,'5-6 hours',Healthy,B.Pharm,No,0,1,No,0
+1864,Female,34,Varanasi,Student,5,0,5.72,2,0,'7-8 hours',Healthy,M.Com,Yes,9,1,No,0
+1871,Male,34,Kanpur,Student,4,0,5.64,4,0,'More than 8 hours',Moderate,M.Com,No,10,1,Yes,0
+1876,Female,20,Indore,Student,3,0,9.04,2,0,'Less than 5 hours',Moderate,'Class 12',Yes,9,5,No,1
+1877,Male,28,Ahmedabad,Student,5,0,8.19,4,0,'More than 8 hours',Unhealthy,B.Arch,Yes,11,1,No,1
+1881,Male,28,Bhopal,Student,3,0,8.44,4,0,'7-8 hours',Unhealthy,MBA,No,11,4,Yes,1
+1891,Female,23,Kalyan,Student,3,0,5.67,4,0,'7-8 hours',Unhealthy,MSc,Yes,11,1,Yes,1
+1895,Female,34,Agra,Student,2,0,8.98,4,0,'Less than 5 hours',Moderate,B.Tech,Yes,4,5,Yes,0
+1897,Female,20,Rajkot,Student,3,0,9.44,5,0,'7-8 hours',Healthy,'Class 12',Yes,2,1,Yes,1
+1908,Female,25,Hyderabad,Student,4,0,5.82,2,0,'5-6 hours',Moderate,B.Arch,No,11,1,No,0
+1911,Male,26,Bhopal,Student,4,0,8.04,3,0,'5-6 hours',Moderate,LLM,Yes,6,5,Yes,1
+1922,Male,18,Lucknow,Student,3,0,9.37,2,0,'Less than 5 hours',Unhealthy,'Class 12',No,11,4,No,1
+1925,Female,24,Thane,Student,3,0,5.59,2,0,'7-8 hours',Healthy,BCA,Yes,9,4,No,1
+1928,Male,28,Lucknow,Student,1,0,8.44,2,0,'More than 8 hours',Unhealthy,B.Arch,No,11,3,Yes,0
+1930,Male,34,Jaipur,Student,3,0,6.99,5,0,'7-8 hours',Unhealthy,BCA,Yes,8,3,No,1
+1932,Male,23,Nashik,Student,3,0,8.44,2,0,'Less than 5 hours',Moderate,B.Ed,Yes,6,2,No,0
+1944,Male,27,Bhopal,Student,3,0,6.86,4,0,'5-6 hours',Unhealthy,BSc,Yes,11,2,Yes,1
+1952,Female,19,Agra,Student,1,0,5.8,2,0,'More than 8 hours',Unhealthy,'Class 12',No,3,2,Yes,0
+1960,Male,32,Meerut,Student,3,0,5.75,4,0,'Less than 5 hours',Unhealthy,B.Tech,Yes,8,1,Yes,1
+1961,Female,20,Vadodara,Student,1,0,7.92,5,0,'More than 8 hours',Moderate,'Class 12',No,11,5,No,0
+1965,Male,25,Lucknow,Student,3,0,6.78,4,0,'More than 8 hours',Healthy,M.Pharm,Yes,9,4,No,0
+1969,Female,24,Kolkata,Student,5,0,7.28,1,0,'Less than 5 hours',Unhealthy,B.Com,Yes,2,4,No,1
+1970,Female,22,Patna,Student,5,0,7.6,2,0,'Less than 5 hours',Unhealthy,B.Ed,Yes,5,2,Yes,1
+1985,Male,27,Ludhiana,Student,3,0,7.91,2,0,'More than 8 hours',Healthy,B.Arch,Yes,6,5,No,0
+1988,Female,18,Patna,Student,5,0,9.17,3,0,'Less than 5 hours',Moderate,'Class 12',No,6,1,No,1
+1995,Male,23,Rajkot,Student,1,0,7.46,5,0,'More than 8 hours',Healthy,M.Ed,No,9,2,No,0
+2002,Female,29,Kolkata,Student,5,0,8.9,4,0,'7-8 hours',Moderate,BSc,Yes,8,3,Yes,1
+2006,Female,18,Bhopal,Student,1,0,9.79,1,0,'7-8 hours',Unhealthy,'Class 12',Yes,8,2,No,0
+2007,Female,31,Indore,Student,2,0,7.53,3,0,'Less than 5 hours',Moderate,MBBS,No,3,1,Yes,0
+2011,Female,33,Meerut,Student,5,0,9.39,5,0,'More than 8 hours',Unhealthy,B.Com,Yes,9,5,Yes,1
+2012,Male,33,Faridabad,Student,4,0,5.37,4,0,'5-6 hours',Moderate,B.Ed,No,5,1,No,0
+2018,Female,34,Meerut,Student,1,0,9.43,3,0,'Less than 5 hours',Unhealthy,M.Com,Yes,9,1,No,0
+2024,Male,28,Srinagar,Student,1,0,9.49,4,0,'7-8 hours',Healthy,B.Pharm,No,0,5,No,0
+2030,Male,20,Srinagar,Student,4,0,9.91,3,0,'5-6 hours',Moderate,'Class 12',Yes,11,1,No,1
+2035,Male,25,Mumbai,Student,3,0,7.88,5,0,'7-8 hours',Unhealthy,BSc,Yes,11,2,No,1
+2039,Female,21,Kolkata,Student,5,0,7.1,5,0,'5-6 hours',Unhealthy,BSc,No,1,2,No,0
+2040,Female,29,Srinagar,Student,5,0,9.36,4,0,'Less than 5 hours',Healthy,PhD,Yes,11,5,No,1
+2042,Female,33,Faridabad,Student,4,0,5.12,3,0,'Less than 5 hours',Healthy,LLM,No,10,4,Yes,1
+2045,Female,33,Ludhiana,Student,3,0,5.88,3,0,'7-8 hours',Healthy,B.Ed,Yes,2,4,Yes,1
+2046,Female,21,Vasai-Virar,Student,1,0,9.96,5,0,'5-6 hours',Moderate,B.Arch,No,0,4,Yes,0
+2051,Female,29,Chennai,Student,4,0,5.16,2,0,'7-8 hours',Unhealthy,BHM,No,11,2,No,0
+2060,Male,31,Delhi,Student,1,0,7.08,1,0,'More than 8 hours',Healthy,B.Com,No,12,3,Yes,0
+2063,Male,24,Bhopal,Student,1,0,9.26,4,0,'7-8 hours',Moderate,MA,No,6,1,No,0
+2068,Female,19,Varanasi,Student,5,0,8.83,1,0,'5-6 hours',Healthy,'Class 12',Yes,6,2,Yes,1
+2078,Male,25,Patna,Student,3,0,10,3,0,'More than 8 hours',Unhealthy,BBA,Yes,10,3,Yes,0
+2086,Male,27,Meerut,Student,2,0,9.39,5,0,'7-8 hours',Unhealthy,MSc,Yes,6,1,Yes,0
+2088,Female,31,Srinagar,Student,3,0,9.87,3,0,'7-8 hours',Healthy,B.Ed,Yes,12,5,No,1
+2097,Female,28,Visakhapatnam,Student,4,0,7.09,1,0,'7-8 hours',Healthy,BE,No,1,4,Yes,0
+2104,Male,34,Vasai-Virar,Student,3,0,8.04,4,0,'5-6 hours',Healthy,MD,Yes,7,2,No,0
+2105,Female,31,Vadodara,Architect,5,0,6.95,3,0,'Less than 5 hours',Moderate,BSc,No,8,1,Yes,1
+2108,Male,20,Indore,Student,3,0,8.58,1,0,'7-8 hours',Healthy,'Class 12',Yes,9,2,Yes,1
+2120,Female,18,Mumbai,Student,4,0,7.28,3,0,'Less than 5 hours',Moderate,'Class 12',Yes,8,5,No,1
+2127,Female,20,Lucknow,Student,4,0,6.21,1,0,'7-8 hours',Moderate,'Class 12',Yes,10,4,Yes,1
+2140,Male,24,Ahmedabad,Student,4,0,9.24,3,0,'Less than 5 hours',Healthy,B.Ed,Yes,6,2,No,1
+2143,Female,28,Lucknow,Student,3,0,8.59,3,0,'Less than 5 hours',Healthy,MBA,No,1,2,Yes,0
+2146,Female,19,Delhi,Student,5,0,5.37,4,0,'Less than 5 hours',Healthy,'Class 12',Yes,3,5,No,1
+2147,Male,28,Nagpur,Student,1,0,5.74,1,0,'5-6 hours',Moderate,B.Tech,Yes,8,5,No,1
+2150,Male,28,Kalyan,Student,1,0,9.86,5,0,'7-8 hours',Unhealthy,MBA,Yes,12,5,Yes,1
+2161,Female,28,Srinagar,Student,1,0,9.21,5,0,'Less than 5 hours',Healthy,B.Arch,No,8,1,No,0
+2171,Female,19,Chennai,Student,1,0,7.8,2,0,'Less than 5 hours',Unhealthy,'Class 12',No,11,1,No,0
+2182,Male,28,Srinagar,Student,2,0,8.35,2,0,'Less than 5 hours',Unhealthy,MBBS,Yes,6,1,Yes,0
+2183,Female,21,Varanasi,Student,3,0,9.46,1,0,'Less than 5 hours',Unhealthy,M.Com,Yes,5,5,No,1
+2198,Female,19,Srinagar,Student,1,0,5.82,4,0,'5-6 hours',Healthy,'Class 12',No,10,3,Yes,0
+2203,Male,29,Kolkata,Student,4,0,9.24,1,0,'Less than 5 hours',Unhealthy,BCA,No,8,2,Yes,1
+2204,Male,32,Kanpur,Student,2,0,7.47,5,0,'7-8 hours',Healthy,M.Tech,No,5,1,No,0
+2207,Male,26,Kanpur,Student,4,0,6.25,2,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,12,4,Yes,1
+2211,Male,22,Srinagar,Student,2,0,6.63,4,0,'More than 8 hours',Moderate,BHM,Yes,7,4,No,1
+2226,Female,24,Chennai,Student,2,0,5.16,1,0,'5-6 hours',Moderate,M.Tech,Yes,2,4,No,1
+2233,Male,28,Srinagar,Student,5,0,7.24,4,0,'7-8 hours',Healthy,M.Tech,Yes,5,4,No,0
+2238,Male,34,Hyderabad,Student,3,0,7.88,3,0,'More than 8 hours',Healthy,M.Ed,No,5,1,No,0
+2250,Male,20,Srinagar,Student,3,0,7.04,4,0,'7-8 hours',Unhealthy,'Class 12',Yes,11,3,No,1
+2255,Female,32,Lucknow,Student,2,0,6.47,4,0,'7-8 hours',Moderate,LLB,No,11,3,Yes,0
+2256,Female,20,Srinagar,Student,3,0,9.74,3,0,'7-8 hours',Moderate,'Class 12',No,2,4,Yes,1
+2260,Male,18,Jaipur,Student,3,0,6.63,3,0,'5-6 hours',Moderate,'Class 12',Yes,11,4,Yes,1
+2267,Female,25,Ghaziabad,Student,1,0,8.95,2,0,'More than 8 hours',Unhealthy,MSc,Yes,7,1,Yes,0
+2270,Male,29,Visakhapatnam,Student,3,0,9.26,3,0,'Less than 5 hours',Moderate,MSc,Yes,2,1,No,0
+2288,Male,27,Nagpur,Student,5,0,8.35,2,0,'Less than 5 hours',Healthy,BBA,Yes,6,4,Yes,1
+2290,Female,34,Kalyan,Student,3,0,8.17,3,0,'7-8 hours',Healthy,M.Com,No,2,4,No,0
+2293,Male,32,Rajkot,Student,1,0,9.87,3,0,'Less than 5 hours',Healthy,B.Arch,Yes,2,5,Yes,1
+2294,Male,29,Faridabad,Student,3,0,7.25,1,0,'5-6 hours',Unhealthy,MSc,Yes,9,4,Yes,1
+2295,Female,23,Lucknow,Student,4,0,7.77,1,0,'5-6 hours',Healthy,B.Com,No,6,1,Yes,1
+2305,Female,27,Kolkata,Student,4,0,5.06,5,0,'7-8 hours',Unhealthy,B.Com,Yes,0,4,Yes,1
+2310,Female,29,Pune,Student,5,0,6.04,2,0,'More than 8 hours',Unhealthy,BCA,Yes,2,5,Yes,1
+2312,Female,30,Mumbai,Student,2,0,7.21,3,0,'More than 8 hours',Unhealthy,'Class 12',Yes,11,1,Yes,1
+2314,Female,21,Nagpur,Student,3,0,6.83,5,0,'More than 8 hours',Unhealthy,M.Ed,Yes,8,3,No,1
+2322,Female,32,Faridabad,Student,5,0,7.17,2,0,'5-6 hours',Unhealthy,M.Ed,Yes,2,5,No,1
+2325,Male,20,Bangalore,Student,5,0,8.24,2,0,'Less than 5 hours',Moderate,'Class 12',Yes,3,5,Yes,1
+2330,Female,25,Ghaziabad,Student,5,0,8.97,2,0,'Less than 5 hours',Moderate,PhD,Yes,1,5,Yes,1
+2343,Male,31,Kalyan,Student,1,0,5.74,1,0,'More than 8 hours',Healthy,BA,Yes,10,2,Yes,0
+2348,Male,20,Bhopal,Student,5,0,6.88,5,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,12,2,No,1
+2351,Female,23,Delhi,Student,3,0,7.77,3,0,'7-8 hours',Unhealthy,B.Tech,Yes,5,5,Yes,1
+2358,Male,31,Ghaziabad,Student,1,0,9.54,4,0,'More than 8 hours',Moderate,M.Pharm,No,2,1,No,0
+2364,Female,34,Surat,Student,1,0,9.03,5,0,'7-8 hours',Moderate,B.Ed,No,1,3,No,0
+2372,Male,24,Faridabad,Student,3,0,9.96,2,0,'7-8 hours',Unhealthy,'Class 12',Yes,10,4,No,1
+2376,Male,32,Thane,Student,3,0,9.72,4,0,'7-8 hours',Moderate,LLM,Yes,9,3,Yes,1
+2385,Male,30,Mumbai,Student,4,0,6.51,1,0,'More than 8 hours',Healthy,M.Com,Yes,0,3,Yes,0
+2399,Female,18,Thane,Student,4,0,7.52,1,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,7,2,Yes,0
+2405,Male,33,Meerut,Student,2,0,7.25,4,0,'7-8 hours',Healthy,M.Tech,No,12,2,No,0
+2406,Male,34,Kolkata,Student,4,0,7.51,1,0,'7-8 hours',Unhealthy,MSc,Yes,11,2,Yes,1
+2407,Female,20,Hyderabad,Student,3,0,6.04,4,0,'5-6 hours',Healthy,'Class 12',Yes,4,2,Yes,0
+2408,Female,22,Bangalore,Student,5,0,7.51,3,0,'5-6 hours',Moderate,BE,Yes,9,5,No,1
+2418,Male,34,Surat,Student,1,0,7.6,3,0,'7-8 hours',Moderate,MSc,No,11,3,Yes,0
+2423,Female,30,Chennai,Student,5,0,6.78,1,0,'5-6 hours',Unhealthy,B.Com,Yes,10,3,No,1
+2425,Male,19,Vadodara,Student,3,0,5.08,4,0,'More than 8 hours',Moderate,'Class 12',Yes,10,3,No,1
+2431,Female,19,Ludhiana,Student,4,0,5.56,1,0,'More than 8 hours',Healthy,'Class 12',No,0,4,Yes,0
+2432,Male,20,Mumbai,Student,5,0,5.45,2,0,'More than 8 hours',Unhealthy,'Class 12',Yes,5,5,No,1
+2439,Male,25,Hyderabad,Student,4,0,9.96,2,0,'Less than 5 hours',Healthy,MD,Yes,2,5,No,1
+2444,Female,30,Agra,Student,5,0,9.39,5,0,'Less than 5 hours',Moderate,PhD,No,12,1,No,0
+2460,Male,26,Jaipur,Student,4,0,7.88,1,0,'Less than 5 hours',Moderate,B.Com,Yes,0,5,No,1
+2461,Female,21,Vadodara,Student,1,0,5.74,2,0,'More than 8 hours',Unhealthy,B.Arch,No,10,2,No,0
+2471,Female,28,Srinagar,Student,4,0,9.72,1,0,'Less than 5 hours',Unhealthy,B.Tech,Yes,12,3,No,1
+2474,Male,18,Ludhiana,Student,3,0,8.08,5,0,'7-8 hours',Unhealthy,'Class 12',Yes,5,5,Yes,1
+2482,Male,24,Ghaziabad,Student,2,0,5.64,1,0,'Less than 5 hours',Unhealthy,B.Com,Yes,10,5,No,1
+2486,Male,29,Surat,Student,4,0,8.04,5,0,'More than 8 hours',Unhealthy,ME,No,1,2,Yes,0
+2490,Male,28,Bhopal,Student,5,0,8.95,5,0,'7-8 hours',Unhealthy,MBBS,Yes,8,2,No,1
+2494,Male,31,Varanasi,Student,3,0,8.46,5,0,'Less than 5 hours',Moderate,M.Ed,No,12,3,No,0
+2496,Male,25,Kalyan,Student,5,0,6.83,2,0,'Less than 5 hours',Unhealthy,B.Ed,Yes,7,2,Yes,1
+2500,Male,28,Visakhapatnam,Student,4,0,8.91,5,0,'7-8 hours',Moderate,MD,No,0,2,No,0
+2548,Male,33,Meerut,Student,1,0,9.71,2,0,'5-6 hours',Moderate,M.Tech,No,3,4,Yes,0
+2564,Male,30,Bangalore,Student,4,0,6.99,2,0,'More than 8 hours',Moderate,BBA,Yes,6,5,No,1
+2568,Female,28,Vasai-Virar,Student,2,0,6,5,0,'More than 8 hours',Unhealthy,M.Ed,No,12,5,Yes,1
+2569,Male,20,Ahmedabad,Student,4,0,6.99,3,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,8,5,Yes,1
+2574,Female,18,Kanpur,Student,1,0,9.37,3,0,'7-8 hours',Healthy,'Class 12',No,11,2,Yes,0
+2576,Female,29,Kolkata,Student,2,0,9.44,5,0,'7-8 hours',Moderate,BCA,No,4,2,Yes,0
+2581,Male,28,Hyderabad,Student,4,0,7.53,2,0,'Less than 5 hours',Moderate,MBBS,Yes,8,1,Yes,1
+2585,Female,24,Surat,Student,1,0,9.19,2,0,'7-8 hours',Moderate,B.Arch,Yes,10,3,Yes,0
+2589,Male,25,Mumbai,Student,5,0,6.51,2,0,'Less than 5 hours',Unhealthy,MSc,No,10,3,No,0
+2591,Male,21,Mumbai,Student,1,0,7.09,5,0,'More than 8 hours',Healthy,MCA,No,4,5,Yes,0
+2592,Male,21,Visakhapatnam,Student,1,0,6.51,1,0,'5-6 hours',Moderate,BCA,Yes,12,1,Yes,0
+2605,Female,28,Lucknow,Student,5,0,7.72,2,0,'5-6 hours',Unhealthy,BE,Yes,8,4,No,1
+2608,Female,34,Lucknow,Student,5,0,6.36,5,0,'Less than 5 hours',Unhealthy,BHM,No,11,4,No,0
+2622,Female,29,Kalyan,Student,4,0,5.32,2,0,'Less than 5 hours',Unhealthy,B.Ed,Yes,11,3,No,1
+2629,Female,19,Bangalore,Student,3,0,8.35,2,0,'5-6 hours',Healthy,'Class 12',No,9,4,Yes,0
+2633,Female,19,Thane,Student,1,0,8.13,1,0,'More than 8 hours',Unhealthy,'Class 12',No,0,5,No,0
+2652,Male,21,Indore,Student,5,0,8.73,5,0,'7-8 hours',Unhealthy,BA,Yes,4,3,No,1
+2654,Male,23,Kalyan,Student,4,0,6.16,3,0,'Less than 5 hours',Moderate,MSc,Yes,9,5,No,1
+2660,Female,25,Thane,Student,2,0,8.9,2,0,'5-6 hours',Moderate,PhD,Yes,4,4,No,1
+2663,Female,29,Visakhapatnam,Student,4,0,8.92,2,0,'5-6 hours',Unhealthy,BCA,Yes,9,3,No,1
+2672,Male,27,Patna,Student,4,0,7.51,4,0,'More than 8 hours',Moderate,B.Com,Yes,6,5,No,1
+2674,Female,19,Chennai,Student,5,0,7.48,1,0,'Less than 5 hours',Moderate,'Class 12',Yes,11,5,Yes,1
+2681,Male,26,Rajkot,Student,3,0,7.11,4,0,'Less than 5 hours',Moderate,BBA,Yes,4,5,No,0
+2685,Female,19,Vasai-Virar,Student,5,0,9.12,1,0,'More than 8 hours',Healthy,'Class 12',Yes,2,3,No,1
+2687,Female,22,Ghaziabad,Student,3,0,9.4,1,0,'Less than 5 hours',Moderate,B.Tech,No,0,3,No,0
+2689,Female,23,Jaipur,Student,1,0,9.91,4,0,'More than 8 hours',Unhealthy,B.Com,Yes,7,5,No,0
+2695,Male,29,Jaipur,Student,4,0,9.24,1,0,'Less than 5 hours',Unhealthy,B.Tech,Yes,2,5,No,1
+2696,Male,21,Thane,Student,1,0,7.77,1,0,'5-6 hours',Healthy,B.Com,Yes,8,2,No,1
+2704,Male,24,Agra,Student,4,0,7.1,3,0,'5-6 hours',Moderate,BSc,Yes,8,2,No,1
+2710,Male,24,Lucknow,Student,2,0,8.38,2,0,'5-6 hours',Healthy,M.Tech,No,10,1,No,1
+2712,Male,32,Jaipur,Student,4,0,5.37,5,0,'More than 8 hours',Moderate,M.Tech,No,12,3,Yes,1
+2721,Female,22,Vasai-Virar,Student,3,0,8.11,4,0,'Less than 5 hours',Unhealthy,BA,Yes,6,2,Yes,1
+2724,Male,23,Vasai-Virar,Student,3,0,6.16,3,0,'7-8 hours',Unhealthy,M.Tech,No,1,1,No,0
+2726,Female,33,Kanpur,Student,4,0,5.16,5,0,'Less than 5 hours',Moderate,BHM,No,11,4,No,1
+2743,Female,27,Ghaziabad,Student,4,0,6.25,3,0,'5-6 hours',Healthy,LLB,Yes,4,5,No,1
+2749,Female,26,Ludhiana,Student,3,0,9.44,3,0,'7-8 hours',Moderate,MA,No,7,2,Yes,0
+2754,Male,24,Hyderabad,Student,2,0,5.32,5,0,'Less than 5 hours',Unhealthy,B.Ed,Yes,10,3,Yes,1
+2755,Male,33,Kolkata,Student,5,0,9.98,2,0,'7-8 hours',Moderate,BBA,Yes,4,4,Yes,1
+2759,Male,33,Visakhapatnam,Student,4,0,8.17,2,0,'Less than 5 hours',Moderate,BA,Yes,10,5,Yes,1
+2766,Female,25,Faridabad,Student,3,0,9.6,5,0,'7-8 hours',Unhealthy,B.Ed,Yes,0,3,No,1
+2770,Female,27,Hyderabad,Student,2,0,5.58,2,0,'More than 8 hours',Unhealthy,B.Pharm,No,12,5,Yes,1
+2772,Female,25,Chennai,Student,3,0,8.92,2,0,'7-8 hours',Unhealthy,BHM,Yes,5,5,Yes,1
+2774,Male,28,Jaipur,Student,5,0,8.04,2,0,'7-8 hours',Moderate,B.Com,Yes,11,2,No,1
+2777,Female,21,Vasai-Virar,Student,1,0,7.77,3,0,'5-6 hours',Moderate,M.Tech,Yes,10,5,No,1
+2779,Male,29,Ghaziabad,Student,2,0,7.88,5,0,'5-6 hours',Unhealthy,B.Com,Yes,3,2,No,0
+2780,Female,32,Nashik,Student,4,0,5.55,4,0,'5-6 hours',Moderate,MBBS,Yes,11,3,No,1
+2781,Male,34,Varanasi,Student,3,0,8.74,3,0,'More than 8 hours',Moderate,M.Ed,No,12,3,No,0
+2789,Male,25,Mumbai,Student,5,0,8.61,3,0,'7-8 hours',Healthy,B.Com,No,11,5,Yes,1
+2793,Female,21,Bhopal,Student,1,0,8.04,5,0,'More than 8 hours',Moderate,B.Com,No,8,3,No,0
+2797,Male,19,Rajkot,Student,5,0,5.12,3,0,'More than 8 hours',Unhealthy,'Class 12',Yes,10,3,Yes,1
+2798,Male,22,Ahmedabad,Student,3,0,8.14,4,0,'5-6 hours',Moderate,BBA,Yes,7,1,Yes,0
+2799,Male,33,Ludhiana,Student,2,0,7.09,3,0,'7-8 hours',Moderate,B.Ed,No,12,3,Yes,0
+2804,Female,19,Ghaziabad,Student,4,0,5.41,3,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,11,5,Yes,1
+2805,Male,21,Vasai-Virar,Student,4,0,5.26,4,0,'Less than 5 hours',Healthy,B.Arch,Yes,6,5,Yes,1
+2811,Male,20,Indore,Student,3,0,8.14,3,0,'Less than 5 hours',Healthy,'Class 12',Yes,9,5,No,1
+2814,Female,20,Visakhapatnam,Student,1,0,7.92,4,0,'7-8 hours',Healthy,'Class 12',No,1,2,No,0
+2815,Male,18,Surat,Student,4,0,6.84,3,0,'7-8 hours',Moderate,'Class 12',Yes,12,1,Yes,1
+2816,Female,21,Thane,Student,5,0,6.89,4,0,'5-6 hours',Moderate,BCA,No,9,4,No,0
+2819,Male,21,Chennai,Student,5,0,9.84,4,0,'Less than 5 hours',Healthy,MSc,No,8,5,Yes,1
+2841,Female,21,Hyderabad,Student,1,0,8.9,2,0,'More than 8 hours',Unhealthy,MCA,Yes,2,2,No,0
+2850,Male,29,Ghaziabad,Student,5,0,9.89,3,0,'7-8 hours',Moderate,BCA,Yes,12,3,Yes,1
+2854,Female,28,Ghaziabad,Student,1,0,9.6,2,0,'5-6 hours',Unhealthy,B.Arch,No,0,1,Yes,0
+2858,Male,33,Kanpur,Student,4,0,7.04,1,0,'More than 8 hours',Moderate,MBBS,Yes,4,3,Yes,1
+2864,Male,24,Vasai-Virar,Student,5,0,5.42,5,0,'5-6 hours',Unhealthy,B.Pharm,Yes,6,4,Yes,1
+2867,Male,29,Bangalore,Student,5,0,8.28,1,0,'Less than 5 hours',Moderate,M.Ed,Yes,4,1,No,1
+2869,Male,32,Bhopal,Student,1,0,5.76,5,0,'More than 8 hours',Moderate,ME,Yes,5,5,No,0
+2871,Male,32,Mumbai,Student,5,0,8.54,3,0,'7-8 hours',Moderate,B.Pharm,Yes,11,5,Yes,1
+2875,Male,26,Kalyan,Student,4,0,9.04,3,0,'5-6 hours',Unhealthy,BA,Yes,10,2,No,1
+2881,Female,23,Ludhiana,Student,1,0,6.63,1,0,'7-8 hours',Healthy,B.Tech,Yes,0,1,No,0
+2886,Female,29,Delhi,Student,5,0,7.51,1,0,'More than 8 hours',Moderate,LLM,Yes,8,2,Yes,1
+2903,Male,27,Nashik,Student,4,0,9.71,5,0,'5-6 hours',Unhealthy,PhD,Yes,11,5,No,1
+2907,Male,31,Rajkot,Student,2,0,5.48,4,0,'Less than 5 hours',Unhealthy,'Class 12',No,12,3,Yes,0
+2908,Female,32,Meerut,Student,2,0,8.52,1,0,'More than 8 hours',Unhealthy,B.Tech,No,8,3,No,0
+2916,Female,31,Kalyan,Student,1,0,8.04,3,0,'7-8 hours',Healthy,LLM,No,8,1,No,0
+2918,Male,27,Faridabad,Student,4,0,7.52,4,0,'More than 8 hours',Moderate,B.Arch,Yes,11,1,Yes,1
+2941,Female,21,Agra,Student,5,0,8.21,2,0,'Less than 5 hours',Unhealthy,BCA,Yes,10,5,Yes,1
+2945,Female,20,Kalyan,Student,4,0,5.82,1,0,'7-8 hours',Healthy,'Class 12',Yes,7,5,No,1
+2951,Female,25,Kalyan,Student,5,0,5.64,3,0,'Less than 5 hours',Unhealthy,BCA,Yes,11,5,No,1
+2962,Female,31,Delhi,Student,5,0,7.82,1,0,'5-6 hours',Moderate,LLB,No,5,5,Yes,1
+2968,Female,24,Vadodara,Student,2,0,8.39,2,0,'Less than 5 hours',Moderate,MBBS,Yes,0,2,No,0
+2970,Female,18,Kalyan,Student,3,0,5.72,1,0,'More than 8 hours',Moderate,'Class 12',Yes,8,4,No,1
+2974,Male,33,Agra,Student,2,0,6.83,4,0,'7-8 hours',Unhealthy,MSc,No,6,5,No,0
+2977,Male,25,Ludhiana,Student,4,0,6.75,3,0,'More than 8 hours',Healthy,B.Com,Yes,2,3,No,0
+2978,Male,26,Kalyan,Student,2,0,9.96,3,0,'Less than 5 hours',Unhealthy,BBA,Yes,12,3,No,1
+2980,Female,29,Bhopal,Student,3,0,6.78,3,0,'Less than 5 hours',Unhealthy,M.Ed,Yes,11,2,Yes,1
+2981,Female,21,Thane,Student,3,0,5.81,4,0,'Less than 5 hours',Moderate,BA,Yes,11,5,Yes,1
+2982,Female,18,Lucknow,Student,4,0,5.59,2,0,'More than 8 hours',Unhealthy,'Class 12',Yes,3,3,Yes,1
+2999,Male,18,Ludhiana,Student,5,0,5.56,1,0,'5-6 hours',Moderate,'Class 12',Yes,10,2,No,1
+3016,Male,18,Meerut,Student,5,0,8.11,5,0,'5-6 hours',Healthy,'Class 12',Yes,6,4,Yes,1
+3024,Male,31,Visakhapatnam,Student,1,0,9.67,4,0,'7-8 hours',Unhealthy,M.Tech,No,2,2,No,0
+3033,Male,31,Vasai-Virar,Student,5,0,5.12,2,0,'More than 8 hours',Moderate,LLB,Yes,12,5,No,1
+3034,Female,21,Srinagar,Student,5,0,8.61,4,0,'Less than 5 hours',Unhealthy,BA,Yes,12,4,No,1
+3037,Male,24,Lucknow,Student,1,0,5.27,3,0,'Less than 5 hours',Healthy,MCA,Yes,7,5,Yes,1
+3038,Male,31,Bhopal,Student,4,0,8.04,5,0,'Less than 5 hours',Healthy,'Class 12',Yes,6,3,No,1
+3042,Male,24,Kanpur,Student,2,0,9.86,4,0,'Less than 5 hours',Unhealthy,BA,Yes,9,2,No,0
+3044,Male,18,Kalyan,Student,5,0,8.04,5,0,'Less than 5 hours',Moderate,'Class 12',Yes,7,5,Yes,1
+3054,Male,20,Kolkata,Student,5,0,8.7,4,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,6,2,No,1
+3067,Female,30,Lucknow,Student,3,0,8.55,2,0,'5-6 hours',Moderate,PhD,No,10,3,Yes,1
+3078,Female,20,Hyderabad,Student,4,0,6.1,3,0,'Less than 5 hours',Unhealthy,'Class 12',No,8,1,No,1
+3081,Male,20,Nagpur,Student,3,0,5.66,3,0,'5-6 hours',Unhealthy,'Class 12',No,7,3,No,0
+3086,Male,19,Pune,Student,1,0,5.79,3,0,'Less than 5 hours',Moderate,'Class 12',No,2,2,No,0
+3091,Male,23,Jaipur,Student,5,0,9.71,4,0,'More than 8 hours',Moderate,B.Com,Yes,10,4,No,1
+3101,Male,29,Ghaziabad,Student,5,0,8.83,1,0,'7-8 hours',Moderate,MSc,Yes,9,5,No,1
+3110,Female,19,Kalyan,Student,1,0,8.04,4,0,'More than 8 hours',Healthy,'Class 12',No,8,2,Yes,0
+3114,Male,28,Kanpur,Student,3,0,5.26,1,0,'Less than 5 hours',Moderate,MBA,Yes,12,2,Yes,1
+3115,Female,32,Bangalore,Student,5,0,8.52,5,0,'Less than 5 hours',Unhealthy,BA,Yes,12,5,Yes,1
+3121,Female,25,Lucknow,Student,4,0,8.91,2,0,'More than 8 hours',Moderate,B.Ed,No,9,2,No,0
+3124,Female,29,Srinagar,Student,2,0,9.96,3,0,'Less than 5 hours',Healthy,M.Com,Yes,12,5,No,1
+3128,Female,23,Pune,Student,5,0,5.42,5,0,'Less than 5 hours',Unhealthy,MD,No,11,4,No,1
+3135,Female,24,Jaipur,Student,3,0,7.09,3,0,'7-8 hours',Healthy,B.Ed,Yes,1,2,No,1
+3136,Female,18,Thane,Student,5,0,8.77,1,0,'7-8 hours',Healthy,'Class 12',Yes,9,1,Yes,1
+3139,Male,31,Lucknow,Student,1,0,8.28,5,0,'5-6 hours',Unhealthy,B.Pharm,No,6,3,Yes,0
+3140,Female,26,Hyderabad,Student,4,0,8.29,4,0,'5-6 hours',Moderate,BCA,Yes,9,2,Yes,1
+3154,Male,32,Nashik,Student,5,0,9.72,1,0,'Less than 5 hours',Moderate,LLB,Yes,4,3,Yes,1
+3157,Female,20,Thane,Student,4,0,8.28,4,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,9,5,No,1
+3159,Female,31,Bhopal,Student,5,0,9.05,5,0,'More than 8 hours',Unhealthy,B.Ed,No,11,3,No,1
+3161,Female,30,Vasai-Virar,Student,4,0,5.08,5,0,'Less than 5 hours',Moderate,'Class 12',Yes,8,2,Yes,0
+3162,Female,20,Thane,Student,1,0,6.92,3,0,'Less than 5 hours',Moderate,'Class 12',Yes,5,5,No,1
+3166,Male,33,Varanasi,Student,3,0,7.53,3,0,'Less than 5 hours',Unhealthy,M.Tech,No,12,5,No,0
+3170,Male,26,Visakhapatnam,Student,3,0,5.86,4,0,'7-8 hours',Unhealthy,B.Ed,Yes,3,3,No,0
+3175,Male,33,Kalyan,Student,2,0,6.78,3,0,'7-8 hours',Unhealthy,MSc,No,8,1,No,0
+3177,Male,27,Lucknow,Student,4,0,9.71,4,0,'Less than 5 hours',Healthy,BSc,No,9,3,Yes,0
+3184,Female,24,Chennai,Student,1,0,5.86,3,0,'5-6 hours',Healthy,BE,No,10,1,No,0
+3185,Female,20,Ahmedabad,Student,5,0,6.16,5,0,'Less than 5 hours',Healthy,'Class 12',Yes,9,2,Yes,1
+3186,Female,31,Nashik,Student,2,0,7.37,4,0,'7-8 hours',Unhealthy,'Class 12',No,11,2,Yes,0
+3193,Male,22,Surat,Student,2,0,7.85,3,0,'Less than 5 hours',Moderate,MSc,Yes,11,5,Yes,1
+3194,Male,29,Vasai-Virar,Student,3,0,5.16,4,0,'More than 8 hours',Moderate,M.Ed,Yes,11,1,Yes,0
+3195,Female,32,Vasai-Virar,Student,4,0,8.95,3,0,'More than 8 hours',Moderate,BCA,Yes,4,1,Yes,0
+3196,Female,28,Thane,Student,1,0,8.91,1,0,'More than 8 hours',Healthy,MSc,Yes,8,4,Yes,1
+3198,Male,32,Surat,Student,5,0,9.5,1,0,'Less than 5 hours',Healthy,LLB,Yes,11,3,Yes,1
+3209,Female,34,Jaipur,Student,5,0,5.58,5,0,'More than 8 hours',Moderate,MCA,No,1,2,No,0
+3222,Male,32,Delhi,Student,5,0,9.7,2,0,'More than 8 hours',Moderate,BA,Yes,12,3,Yes,1
+3226,Male,23,Pune,Student,1,0,6.26,1,0,'5-6 hours',Moderate,BSc,Yes,9,1,Yes,1
+3227,Male,28,Varanasi,Student,4,0,5.66,4,0,'More than 8 hours',Unhealthy,Others,Yes,10,5,Yes,1
+3228,Female,33,Delhi,Student,1,0,8.55,4,0,'7-8 hours',Healthy,PhD,Yes,12,2,Yes,0
+3234,Male,27,Bhopal,Student,1,0,7.26,1,0,'5-6 hours',Healthy,B.Com,No,8,2,No,0
+3235,Female,25,Visakhapatnam,Student,5,0,7.47,2,0,'More than 8 hours',Unhealthy,BSc,Yes,8,5,Yes,1
+3245,Female,28,Surat,Student,3,0,9.13,1,0,'More than 8 hours',Healthy,LLB,No,2,3,Yes,0
+3253,Male,21,Meerut,Student,2,0,9.21,2,0,'Less than 5 hours',Moderate,MA,No,1,1,No,0
+3258,Male,23,Mumbai,Student,5,0,9.89,3,0,'More than 8 hours',Unhealthy,B.Tech,Yes,2,4,Yes,1
+3260,Male,25,Ludhiana,Student,2,0,9.66,3,0,'Less than 5 hours',Unhealthy,MHM,No,6,3,Yes,1
+3261,Male,29,Surat,Student,4,0,7.21,1,0,'7-8 hours',Unhealthy,B.Tech,Yes,6,4,Yes,1
+3266,Female,33,Lucknow,Student,3,0,6.37,1,0,'7-8 hours',Moderate,B.Ed,Yes,7,1,Yes,0
+3268,Female,30,Kolkata,Student,4,0,8.04,2,0,'5-6 hours',Moderate,MBBS,Yes,11,5,No,1
+3271,Male,24,Kalyan,Student,4,0,5.46,1,0,'More than 8 hours',Moderate,'Class 12',No,6,5,No,1
+3273,Male,19,Vadodara,Student,2,0,7.27,1,0,'More than 8 hours',Unhealthy,'Class 12',Yes,5,5,No,1
+3281,Female,20,Bangalore,Student,5,0,7.5,1,0,'5-6 hours',Moderate,'Class 12',Yes,10,5,No,1
+3282,Female,19,Vadodara,Student,4,0,8.21,2,0,'7-8 hours',Unhealthy,'Class 12',Yes,4,3,No,1
+3289,Male,24,Nashik,Student,1,0,6.82,2,0,'Less than 5 hours',Healthy,B.Arch,No,10,1,Yes,0
+3301,Female,31,Lucknow,Student,5,0,9.17,1,0,'7-8 hours',Moderate,B.Ed,Yes,8,4,Yes,1
+3304,Female,24,Agra,Student,4,0,6.27,1,0,'5-6 hours',Unhealthy,B.Com,Yes,12,5,Yes,1
+3305,Female,29,Kanpur,Student,3,0,9.96,1,0,'Less than 5 hours',Moderate,LLB,No,11,2,No,1
+3312,Male,33,Delhi,Student,2,0,7.15,4,0,'Less than 5 hours',Unhealthy,MCA,No,7,2,No,0
+3319,Female,33,Delhi,Student,1,0,9.39,1,0,'7-8 hours',Healthy,M.Tech,No,12,2,No,0
+3331,Female,23,Srinagar,Student,4,0,8.61,1,0,'More than 8 hours',Moderate,MCA,Yes,2,3,Yes,0
+3337,Male,32,Hyderabad,Student,3,0,9.39,3,0,'7-8 hours',Unhealthy,M.Tech,Yes,8,4,Yes,1
+3339,Female,23,Agra,Student,2,0,8.54,4,0,'7-8 hours',Moderate,MA,Yes,12,3,Yes,1
+3341,Male,25,Lucknow,Student,5,0,5.82,1,0,'7-8 hours',Healthy,B.Ed,Yes,11,5,No,1
+3343,Female,31,Thane,Student,3,0,5.77,2,0,'7-8 hours',Unhealthy,M.Tech,Yes,4,5,Yes,1
+3344,Male,28,Vasai-Virar,Student,5,0,5.88,4,0,'7-8 hours',Moderate,MCA,Yes,9,4,No,1
+3345,Female,21,Visakhapatnam,Student,5,0,5.91,2,0,'Less than 5 hours',Healthy,MBBS,Yes,6,4,Yes,1
+3350,Female,28,Thane,Student,5,0,5.6,3,0,'More than 8 hours',Unhealthy,B.Tech,Yes,6,3,Yes,1
+3352,Male,23,Hyderabad,Student,3,0,7.03,4,0,'7-8 hours',Moderate,B.Arch,No,7,4,Yes,0
+3357,Male,23,Hyderabad,Student,5,0,9.71,1,0,'5-6 hours',Moderate,B.Com,Yes,3,5,No,1
+3359,Male,21,Hyderabad,Student,4,0,7.39,4,0,'5-6 hours',Unhealthy,B.Ed,Yes,8,5,No,1
+3377,Male,28,Kalyan,Student,2,0,5.1,1,0,'Less than 5 hours',Healthy,BCA,Yes,9,3,No,0
+3379,Female,25,Surat,Student,1,0,7.09,2,0,'7-8 hours',Unhealthy,B.Arch,Yes,6,2,Yes,0
+3385,Female,29,Ahmedabad,Student,2,0,9.87,2,0,'5-6 hours',Moderate,LLM,No,0,2,No,1
+3390,Male,30,Meerut,Student,3,0,7.71,4,0,'7-8 hours',Healthy,B.Tech,No,7,3,No,0
+3393,Female,28,Lucknow,Student,4,0,6.81,4,0,'Less than 5 hours',Unhealthy,MBBS,Yes,9,4,No,1
+3401,Male,19,Kolkata,Student,3,0,9.06,5,0,'5-6 hours',Healthy,'Class 12',Yes,12,5,No,1
+3405,Female,24,Nashik,Student,5,0,5.71,5,0,'More than 8 hours',Moderate,MSc,No,0,3,Yes,0
+3416,Male,20,Hyderabad,Student,1,0,6,2,0,'7-8 hours',Moderate,'Class 12',Yes,10,5,Yes,1
+3420,Male,34,Ahmedabad,Student,4,0,7.15,3,0,'7-8 hours',Unhealthy,MSc,Yes,5,3,Yes,0
+3429,Female,25,Kolkata,Student,5,0,5.59,5,0,'Less than 5 hours',Moderate,ME,Yes,8,5,No,1
+3430,Male,24,Nashik,Student,1,0,9.34,4,0,'7-8 hours',Unhealthy,MCA,No,8,2,No,1
+3436,Male,23,Mumbai,Student,1,0,8.54,4,0,'5-6 hours',Unhealthy,MCA,No,4,5,No,0
+3437,Female,32,Kolkata,Student,5,0,9.03,2,0,'Less than 5 hours',Healthy,BE,No,9,1,Yes,1
+3438,Male,18,Nashik,Student,4,0,7.77,1,0,'More than 8 hours',Healthy,'Class 12',No,10,2,No,1
+3442,Male,21,Kalyan,Student,4,0,5.41,5,0,'7-8 hours',Moderate,'Class 12',Yes,7,5,No,0
+3456,Female,32,Srinagar,Student,1,0,8.04,5,0,'Less than 5 hours',Moderate,BCA,No,11,4,No,0
+3457,Male,30,Kolkata,Student,3,0,8.74,2,0,'More than 8 hours',Unhealthy,LLB,No,6,5,No,1
+3461,Female,25,Jaipur,Student,2,0,9.91,4,0,'Less than 5 hours',Moderate,B.Com,No,5,3,Yes,0
+3464,Female,28,Vasai-Virar,Student,5,0,8.46,3,0,'5-6 hours',Unhealthy,BHM,Yes,6,5,Yes,1
+3466,Female,32,Ghaziabad,Student,4,0,8.79,2,0,'Less than 5 hours',Unhealthy,B.Ed,No,12,1,No,1
+3469,Male,21,Ahmedabad,Student,4,0,5.84,3,0,'7-8 hours',Unhealthy,B.Arch,No,7,5,No,1
+3477,Female,20,Surat,Student,3,0,5.8,4,0,'5-6 hours',Healthy,'Class 12',No,7,4,No,0
+3483,Male,23,Kolkata,Student,1,0,8.04,5,0,'7-8 hours',Unhealthy,B.Tech,Yes,4,3,Yes,0
+3490,Male,32,Nagpur,Student,4,0,8.96,3,0,'5-6 hours',Moderate,BCA,Yes,12,5,No,1
+3491,Male,25,Patna,Student,3,0,9.11,1,0,'5-6 hours',Unhealthy,M.Tech,Yes,4,4,Yes,1
+3493,Female,29,Surat,Student,2,0,8.28,4,0,'7-8 hours',Healthy,M.Com,Yes,6,2,No,1
+3498,Male,20,Visakhapatnam,Student,5,0,6.21,1,0,'7-8 hours',Healthy,'Class 12',Yes,11,4,No,1
+3500,Male,30,Patna,Student,2,0,9.42,3,0,'5-6 hours',Unhealthy,M.Ed,No,6,5,No,1
+3506,Male,28,Ahmedabad,Student,3,0,7.09,4,0,'7-8 hours',Unhealthy,LLB,Yes,1,4,No,1
+3515,Male,18,Agra,Student,1,0,6.75,2,0,'Less than 5 hours',Moderate,'Class 12',Yes,12,3,No,0
+3524,Female,28,Meerut,Student,4,0,6.27,5,0,'Less than 5 hours',Unhealthy,PhD,Yes,6,4,Yes,1
+3527,Male,19,Mumbai,Student,5,0,6.23,3,0,'Less than 5 hours',Moderate,'Class 12',Yes,12,3,Yes,1
+3539,Male,23,Meerut,Student,1,0,6.29,3,0,'5-6 hours',Moderate,B.Tech,Yes,8,4,Yes,0
+3546,Male,31,Patna,Student,5,0,6.53,2,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,6,2,No,1
+3572,Female,20,Chennai,Student,1,0,9.74,3,0,'7-8 hours',Moderate,'Class 12',No,3,1,Yes,0
+3573,Female,21,Vadodara,Student,5,0,5.86,1,0,'7-8 hours',Unhealthy,B.Arch,Yes,10,5,Yes,1
+3580,Male,27,Ludhiana,Student,5,0,8.95,5,0,'5-6 hours',Unhealthy,BBA,Yes,9,5,No,1
+3586,Female,23,Mumbai,Student,1,0,9.96,4,0,'More than 8 hours',Unhealthy,B.Com,Yes,8,5,No,0
+3588,Male,27,Jaipur,Student,5,0,5.25,2,0,'More than 8 hours',Healthy,MSc,No,1,2,No,0
+3590,Female,32,Kalyan,Student,5,0,5.32,3,0,'5-6 hours',Unhealthy,LLB,Yes,8,4,No,1
+3594,Female,33,Nashik,Student,4,0,7.88,2,0,'7-8 hours',Unhealthy,LLM,No,11,5,Yes,1
+3596,Male,24,Bhopal,Student,5,0,7.88,1,0,'5-6 hours',Healthy,BBA,Yes,8,4,No,1
+3599,Female,27,Ghaziabad,Student,2,0,7.43,2,0,'More than 8 hours',Healthy,M.Pharm,Yes,7,5,No,1
+3601,Male,22,Thane,Student,1,0,7.85,1,0,'5-6 hours',Moderate,MA,No,6,4,No,1
+3607,Female,23,Thane,Student,5,0,6.86,1,0,'7-8 hours',Unhealthy,BHM,No,0,5,Yes,0
+3611,Female,27,Srinagar,Student,5,0,7.77,4,0,'More than 8 hours',Moderate,BE,Yes,11,5,Yes,1
+3612,Female,28,Srinagar,Student,2,0,9.69,3,0,'Less than 5 hours',Moderate,BCA,Yes,7,2,No,1
+3617,Female,23,Vadodara,Student,4,0,9.93,2,0,'7-8 hours',Unhealthy,MBA,No,10,4,No,1
+3639,Male,34,Bhopal,Student,4,0,8.19,5,0,'7-8 hours',Healthy,MD,Yes,0,1,Yes,0
+3641,Male,28,Chennai,Student,5,0,5.99,2,0,'Less than 5 hours',Unhealthy,B.Pharm,Yes,8,3,Yes,1
+3643,Male,27,Surat,Student,1,0,5.11,3,0,'5-6 hours',Unhealthy,PhD,No,10,2,Yes,1
+3644,Male,33,Srinagar,Student,3,0,5.16,4,0,'7-8 hours',Healthy,M.Ed,No,11,2,No,0
+3651,Female,30,Agra,Student,2,0,9.54,1,0,'Less than 5 hours',Healthy,MSc,No,1,5,No,0
+3652,Female,20,Mumbai,Student,3,0,5.85,3,0,'7-8 hours',Moderate,'Class 12',Yes,6,3,No,1
+3656,Male,23,Nagpur,Student,5,0,9.63,2,0,'Less than 5 hours',Unhealthy,BCA,Yes,12,5,Yes,1
+3660,Male,31,Ahmedabad,Student,1,0,9.63,3,0,'Less than 5 hours',Unhealthy,B.Com,Yes,12,4,Yes,1
+3670,Male,25,Meerut,Student,4,0,5.32,2,0,'Less than 5 hours',Moderate,BSc,Yes,12,2,No,1
+3674,Female,33,Kalyan,Student,4,0,9.21,4,0,'Less than 5 hours',Unhealthy,B.Ed,Yes,2,3,Yes,1
+3682,Female,23,Thane,Student,2,0,7.09,3,0,'5-6 hours',Healthy,BE,Yes,8,4,No,1
+3684,Female,21,Pune,Student,4,0,8.62,1,0,'Less than 5 hours',Moderate,MCA,No,9,2,Yes,0
+3688,Female,34,Srinagar,Student,3,0,5.56,2,0,'7-8 hours',Unhealthy,BE,No,11,1,No,0
+3691,Male,30,Ahmedabad,Student,5,0,6.88,2,0,'More than 8 hours',Unhealthy,PhD,Yes,12,3,Yes,1
+3700,Female,27,Mumbai,Student,5,0,7.53,3,0,'Less than 5 hours',Unhealthy,BHM,Yes,7,3,Yes,1
+3705,Male,18,Vasai-Virar,Student,3,0,5.12,1,0,'Less than 5 hours',Healthy,'Class 12',Yes,10,4,No,1
+3707,Female,24,Surat,Student,4,0,8.9,2,0,'More than 8 hours',Healthy,BSc,Yes,5,4,No,1
+3710,Male,24,Faridabad,Student,4,0,8.79,4,0,'5-6 hours',Moderate,B.Arch,Yes,6,2,No,1
+3727,Male,28,Indore,Student,5,0,9.84,2,0,'5-6 hours',Moderate,B.Tech,Yes,7,5,Yes,1
+3728,Male,32,Varanasi,Student,5,0,6.17,1,0,'Less than 5 hours',Unhealthy,BE,Yes,5,3,No,1
+3730,Male,29,Patna,Student,3,0,6.38,3,0,'More than 8 hours',Unhealthy,B.Pharm,No,0,5,Yes,0
+3737,Female,18,Vasai-Virar,Student,3,0,5.12,3,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,7,1,Yes,1
+3739,Female,29,Patna,Student,2,0,8.04,4,0,'More than 8 hours',Unhealthy,BCA,Yes,0,2,Yes,0
+3741,Male,21,Thane,Student,2,0,8.44,4,0,'5-6 hours',Unhealthy,B.Arch,Yes,1,3,No,0
+3754,Male,21,Chennai,Student,5,0,8.62,1,0,'7-8 hours',Unhealthy,B.Arch,No,12,5,No,1
+3755,Male,22,Kalyan,Student,2,0,9.24,5,0,'Less than 5 hours',Moderate,M.Ed,Yes,7,1,No,1
+3763,Female,24,Indore,Student,5,0,5.76,1,0,'7-8 hours',Unhealthy,BHM,Yes,11,3,No,1
+3769,Female,22,Chennai,Student,5,0,5.86,4,0,'5-6 hours',Unhealthy,M.Tech,Yes,3,4,Yes,1
+3781,Male,19,Agra,Student,4,0,9.66,3,0,'7-8 hours',Unhealthy,'Class 12',Yes,4,3,No,0
+3788,Female,25,Thane,Student,1,0,6.78,4,0,'More than 8 hours',Moderate,BSc,No,12,4,Yes,0
+3792,Male,28,Lucknow,Student,5,0,7.22,2,0,'More than 8 hours',Unhealthy,ME,Yes,11,3,No,1
+3794,Male,25,Agra,Student,1,0,7.22,5,0,'7-8 hours',Healthy,B.Ed,No,0,2,No,0
+3801,Male,18,Bangalore,Student,5,0,8.52,4,0,'5-6 hours',Unhealthy,'Class 12',Yes,10,5,Yes,1
+3812,Male,18,Patna,Student,5,0,8.17,3,0,'More than 8 hours',Healthy,'Class 12',No,2,4,Yes,0
+3814,Female,24,Rajkot,Student,2,0,6.25,5,0,'5-6 hours',Moderate,B.Pharm,Yes,6,2,Yes,1
+3817,Male,29,Indore,Student,2,0,9.9,2,0,'5-6 hours',Unhealthy,M.Tech,No,8,1,No,0
+3818,Male,20,Patna,Student,5,0,5.32,3,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,11,5,No,1
+3828,Female,27,Lucknow,Student,4,0,9.5,3,0,'More than 8 hours',Unhealthy,B.Arch,Yes,11,1,No,1
+3831,Male,31,Varanasi,Student,1,0,8.04,4,0,'5-6 hours',Healthy,B.Arch,Yes,2,3,No,0
+3844,Male,34,Hyderabad,Student,4,0,8.91,3,0,'Less than 5 hours',Moderate,MD,No,10,1,Yes,0
+3845,Male,23,Hyderabad,Student,4,0,5.27,1,0,'7-8 hours',Healthy,BBA,No,11,4,No,0
+3852,Female,23,Nagpur,Student,5,0,6.03,3,0,'5-6 hours',Moderate,BE,No,1,1,Yes,0
+3857,Female,20,Ludhiana,Student,4,0,9.11,4,0,'Less than 5 hours',Unhealthy,'Class 12',No,7,5,No,0
+3862,Male,24,Vasai-Virar,Student,3,0,9.19,3,0,'More than 8 hours',Healthy,B.Tech,Yes,10,4,No,1
+3865,Male,19,Hyderabad,Student,1,0,6.99,2,0,'5-6 hours',Moderate,'Class 12',No,0,1,Yes,0
+3870,Male,31,Pune,Student,5,0,9.82,5,0,'More than 8 hours',Moderate,'Class 12',Yes,6,5,No,1
+3874,Female,23,Vasai-Virar,Student,1,0,6.78,2,0,'5-6 hours',Unhealthy,MSc,Yes,10,3,No,1
+3880,Male,26,Jaipur,Student,3,0,9.05,5,0,'More than 8 hours',Moderate,M.Ed,Yes,2,1,No,0
+3885,Male,31,Pune,Student,5,0,9.91,3,0,'5-6 hours',Moderate,BA,No,11,3,No,1
+3887,Male,23,Lucknow,Student,5,0,8.9,1,0,'5-6 hours',Moderate,B.Arch,Yes,8,3,No,0
+3888,Male,29,Kolkata,Student,5,0,9.96,1,0,'7-8 hours',Moderate,B.Arch,No,9,4,No,1
+3895,Male,21,Srinagar,Student,5,0,7.25,2,0,'5-6 hours',Moderate,MCA,Yes,11,4,Yes,1
+3920,Male,32,Kolkata,Student,1,0,5.76,3,0,'Less than 5 hours',Healthy,M.Ed,No,8,5,No,0
+3921,Male,26,Kolkata,Student,1,0,5.08,4,0,'5-6 hours',Healthy,B.Tech,Yes,7,2,No,0
+3924,Male,25,Agra,Student,1,0,7.09,3,0,'Less than 5 hours',Healthy,B.Arch,No,9,2,Yes,0
+3928,Female,22,Bhopal,Student,1,0,7.22,1,0,'Less than 5 hours',Moderate,B.Ed,Yes,10,5,No,1
+3931,Female,29,Surat,Student,3,0,6.89,2,0,'7-8 hours',Unhealthy,B.Arch,No,1,2,Yes,0
+3934,Female,30,Hyderabad,Student,2,0,9.91,3,0,'5-6 hours',Moderate,B.Ed,Yes,7,3,No,0
+3939,Female,33,Pune,Student,2,0,6.39,2,0,'More than 8 hours',Moderate,B.Pharm,No,8,5,No,0
+3940,Male,26,Ghaziabad,Student,1,0,7.7,1,0,'5-6 hours',Moderate,LLM,Yes,7,4,No,1
+3951,Male,22,Ahmedabad,Student,1,0,7.53,2,0,'7-8 hours',Unhealthy,B.Ed,Yes,11,5,No,1
+3961,Male,29,Meerut,Student,3,0,9.11,4,0,'Less than 5 hours',Unhealthy,BE,No,11,2,No,1
+3962,Female,24,Thane,Student,4,0,6.38,2,0,'Less than 5 hours',Healthy,B.Pharm,Yes,12,3,Yes,1
+3963,Female,23,Ahmedabad,Student,1,0,7.03,1,0,'More than 8 hours',Moderate,BSc,No,0,3,No,0
+3971,Male,23,Bhopal,Student,2,0,8.24,4,0,'7-8 hours',Moderate,B.Ed,Yes,8,3,No,0
+3983,Male,18,Vadodara,Student,4,0,6.16,4,0,'More than 8 hours',Moderate,'Class 12',No,2,2,Yes,1
+3987,Female,18,Ahmedabad,Student,2,0,8.24,5,0,'More than 8 hours',Moderate,'Class 12',Yes,3,3,Yes,1
+3990,Male,33,Jaipur,Student,3,0,9.34,1,0,'5-6 hours',Unhealthy,B.Ed,No,7,2,No,0
+3999,Male,21,Meerut,Student,1,0,5.46,4,0,'Less than 5 hours',Moderate,B.Tech,No,0,2,No,0
+4001,Male,33,Patna,Student,1,0,9.37,2,0,'7-8 hours',Moderate,'Class 12',Yes,1,1,Yes,0
+4004,Female,27,Vasai-Virar,Student,5,0,8.5,2,0,'7-8 hours',Moderate,MSc,Yes,7,2,Yes,1
+4006,Male,23,Faridabad,Student,3,0,5.66,4,0,'7-8 hours',Healthy,B.Pharm,Yes,0,3,No,1
+4013,Female,24,Faridabad,Student,5,0,8.78,1,0,'Less than 5 hours',Healthy,LLM,Yes,0,2,No,1
+4015,Male,20,Meerut,Student,3,0,8.04,3,0,'Less than 5 hours',Moderate,'Class 12',Yes,10,4,Yes,1
+4016,Male,21,Kalyan,Student,1,0,8.09,1,0,'7-8 hours',Unhealthy,BCA,Yes,8,2,No,1
+4022,Male,23,Nashik,Student,2,0,7.09,3,0,'7-8 hours',Healthy,MA,Yes,12,3,Yes,1
+4027,Female,24,Surat,Student,5,0,6.03,3,0,'7-8 hours',Unhealthy,B.Arch,Yes,7,1,Yes,1
+4029,Female,23,Lucknow,Student,3,0,9.96,3,0,'More than 8 hours',Healthy,BCA,No,2,3,No,0
+4039,Male,24,Patna,Student,3,0,5.82,3,0,'More than 8 hours',Unhealthy,BE,No,7,5,Yes,0
+4047,Female,24,Srinagar,Student,3,0,6.27,3,0,'5-6 hours',Moderate,B.Com,Yes,4,4,No,1
+4056,Male,25,Visakhapatnam,Student,3,0,7.21,1,0,'5-6 hours',Moderate,B.Pharm,Yes,5,3,No,0
+4058,Female,27,Srinagar,Student,5,0,7.27,5,0,'More than 8 hours',Unhealthy,B.Pharm,Yes,10,5,Yes,1
+4060,Male,20,Agra,Student,4,0,9.39,2,0,'7-8 hours',Unhealthy,'Class 12',Yes,10,4,No,1
+4070,Male,23,Vasai-Virar,Student,3,0,5.55,4,0,'5-6 hours',Healthy,BBA,Yes,5,5,Yes,1
+4077,Female,19,Rajkot,Student,4,0,7.17,3,0,'5-6 hours',Unhealthy,'Class 12',Yes,11,2,No,1
+4078,Female,34,Ludhiana,Student,1,0,5.83,2,0,'More than 8 hours',Moderate,MA,No,4,1,No,0
+4079,Female,28,Meerut,Student,4,0,8.92,1,0,'7-8 hours',Healthy,ME,Yes,11,5,Yes,1
+4080,Male,21,Hyderabad,Student,1,0,5.47,4,0,'Less than 5 hours',Moderate,B.Ed,No,11,2,No,0
+4081,Male,20,Mumbai,Student,3,0,9.41,3,0,'More than 8 hours',Unhealthy,'Class 12',Yes,8,4,Yes,1
+4082,Male,24,Ludhiana,Student,3,0,6.08,2,0,'5-6 hours',Unhealthy,B.Com,No,10,5,Yes,1
+4083,Male,25,Kanpur,Student,2,0,6.81,1,0,'More than 8 hours',Moderate,M.Com,No,3,2,No,0
+4090,Male,22,Kolkata,Student,5,0,6.99,2,0,'Less than 5 hours',Unhealthy,MSc,Yes,2,1,Yes,1
+4092,Female,18,Ludhiana,Student,5,0,6.75,3,0,'More than 8 hours',Unhealthy,'Class 12',Yes,11,4,No,1
+4104,Male,33,Kanpur,Student,4,0,8.24,4,0,'5-6 hours',Moderate,MD,Yes,7,1,No,0
+4111,Male,34,Ludhiana,Student,2,0,6,4,0,'Less than 5 hours',Healthy,LLB,Yes,12,5,Yes,1
+4113,Female,23,Pune,Student,3,0,5.75,3,0,'7-8 hours',Moderate,B.Arch,Yes,5,3,Yes,1
+4114,Female,30,Pune,Student,5,0,6.16,1,0,'5-6 hours',Healthy,BBA,Yes,3,5,Yes,0
+4117,Male,23,Vasai-Virar,Student,1,0,8.35,4,0,'Less than 5 hours',Moderate,B.Com,Yes,11,3,Yes,1
+4121,Male,20,Bangalore,Student,3,0,8.96,4,0,'5-6 hours',Moderate,'Class 12',Yes,10,5,No,1
+4126,Male,20,Hyderabad,Student,5,0,7.77,4,0,'More than 8 hours',Moderate,'Class 12',Yes,0,5,No,1
+4127,Male,34,Kolkata,Student,3,0,7.53,2,0,'Less than 5 hours',Moderate,MD,Yes,0,5,Yes,1
+4130,Male,28,Bangalore,Student,3,0,7.88,4,0,'More than 8 hours',Unhealthy,M.Tech,Yes,7,5,Yes,1
+4133,Female,34,Jaipur,Student,3,0,7.52,1,0,'7-8 hours',Unhealthy,B.Arch,No,0,2,No,0
+4137,Male,19,Chennai,Student,5,0,8.78,3,0,'5-6 hours',Unhealthy,'Class 12',Yes,7,3,Yes,1
+4141,Male,26,Vasai-Virar,Student,5,0,5.46,4,0,'Less than 5 hours',Moderate,BCA,Yes,12,5,No,1
+4146,Male,25,Surat,Student,5,0,6.56,2,0,'5-6 hours',Unhealthy,BA,Yes,12,4,Yes,1
+4171,Female,27,Patna,Student,3,0,6.63,3,0,'Less than 5 hours',Healthy,BSc,Yes,6,2,No,1
+4174,Female,34,Surat,Student,4,0,8.38,5,0,'5-6 hours',Unhealthy,BCA,No,7,1,Yes,0
+4183,Male,19,Varanasi,Student,2,0,8.52,5,0,'5-6 hours',Healthy,'Class 12',Yes,8,4,Yes,1
+4187,Male,23,Agra,Student,2,0,5.57,5,0,'5-6 hours',Moderate,B.Com,Yes,9,5,No,0
+4188,Male,31,Thane,Student,1,0,9.21,3,0,'Less than 5 hours',Moderate,M.Ed,Yes,0,1,No,0
+4189,Male,31,Varanasi,Student,1,0,9.79,3,0,'5-6 hours',Healthy,LLM,Yes,10,5,No,0
+4191,Male,31,Nagpur,Student,4,0,9.39,5,0,'Less than 5 hours',Healthy,BA,Yes,5,1,No,1
+4202,Male,19,Ahmedabad,Student,4,0,7.25,5,0,'More than 8 hours',Moderate,'Class 12',No,12,4,No,1
+4210,Male,25,Bhopal,Student,3,0,9.89,4,0,'5-6 hours',Unhealthy,BBA,Yes,3,4,Yes,1
+4213,Female,26,Visakhapatnam,Student,1,0,6.88,4,0,'Less than 5 hours',Moderate,B.Ed,Yes,10,2,No,0
+4226,Female,22,Nagpur,Student,5,0,9.54,1,0,'More than 8 hours',Unhealthy,MCA,Yes,9,5,Yes,1
+4227,Female,25,Kolkata,Student,5,0,7.72,3,0,'More than 8 hours',Moderate,B.Tech,Yes,11,5,Yes,1
+4241,Male,20,Indore,Student,1,0,5.65,4,0,'7-8 hours',Unhealthy,'Class 12',Yes,10,3,Yes,0
+4243,Female,29,Meerut,Student,4,0,8.96,3,0,'More than 8 hours',Unhealthy,B.Tech,No,9,2,No,0
+4248,Male,19,Chennai,Student,5,0,8.58,3,0,'More than 8 hours',Moderate,'Class 12',Yes,4,4,No,1
+4249,Male,27,Meerut,Student,5,0,8.73,1,0,'5-6 hours',Moderate,B.Pharm,Yes,12,2,No,1
+4252,Male,34,Hyderabad,Student,3,0,8.71,3,0,'Less than 5 hours',Moderate,MD,No,5,1,Yes,0
+4263,Female,28,Meerut,Student,5,0,9.79,2,0,'More than 8 hours',Moderate,M.Ed,Yes,5,1,No,1
+4267,Female,20,Ludhiana,Student,5,0,5.65,3,0,'5-6 hours',Unhealthy,'Class 12',Yes,11,4,Yes,1
+4271,Female,24,Agra,Student,3,0,8.95,3,0,'7-8 hours',Moderate,BA,Yes,6,4,No,1
+4277,Female,24,Srinagar,Student,4,0,8.78,2,0,'Less than 5 hours',Unhealthy,B.Com,Yes,7,5,Yes,1
+4281,Female,26,Surat,Student,4,0,8.78,2,0,'5-6 hours',Moderate,B.Com,Yes,5,2,No,0
+4284,Female,18,Bhopal,Student,3,0,9.94,4,0,'5-6 hours',Healthy,'Class 12',Yes,9,4,No,1
+4304,Female,22,Jaipur,Student,4,0,6.69,4,0,'5-6 hours',Unhealthy,MCA,Yes,8,5,No,1
+4308,Female,33,Mumbai,Student,3,0,6.47,3,0,'5-6 hours',Unhealthy,MBA,No,2,3,Yes,0
+4309,Male,18,Agra,Student,3,0,6.83,4,0,'7-8 hours',Unhealthy,'Class 12',Yes,10,4,No,1
+4313,Male,26,Lucknow,Student,5,0,9.96,1,0,'Less than 5 hours',Moderate,B.Tech,No,12,1,Yes,0
+4316,Female,29,Kalyan,Student,5,0,7.8,2,0,'Less than 5 hours',Healthy,MA,Yes,7,1,Yes,0
+4324,Male,28,Delhi,Student,2,0,8.74,3,0,'More than 8 hours',Healthy,B.Ed,Yes,10,1,Yes,0
+4325,Male,22,Nagpur,Student,4,0,8.52,1,0,'5-6 hours',Healthy,BHM,Yes,0,4,No,1
+4333,Male,27,Lucknow,Student,1,0,5.67,4,0,'7-8 hours',Unhealthy,MD,No,12,2,No,0
+4335,Male,29,Delhi,Student,5,0,9.24,1,0,'5-6 hours',Unhealthy,B.Pharm,Yes,11,5,Yes,1
+4337,Male,28,Visakhapatnam,Student,1,0,7.94,4,0,'Less than 5 hours',Unhealthy,Others,Yes,10,3,No,1
+4343,Female,29,Thane,Student,2,0,8.81,2,0,'5-6 hours',Moderate,M.Ed,Yes,10,5,Yes,1
+4345,Female,24,Visakhapatnam,Student,2,0,8.83,1,0,'More than 8 hours',Moderate,BBA,No,7,3,No,0
+4346,Male,34,Agra,Student,1,0,9.24,2,0,'Less than 5 hours',Moderate,B.Ed,No,3,2,Yes,0
+4349,Male,20,Hyderabad,Student,2,0,8.17,3,0,'7-8 hours',Unhealthy,'Class 12',Yes,10,1,No,1
+4356,Female,28,Varanasi,Student,3,0,7.71,1,0,'Less than 5 hours',Moderate,M.Tech,Yes,10,3,Yes,1
+4358,Male,28,Kalyan,Student,1,0,7.85,4,0,'5-6 hours',Unhealthy,B.Ed,Yes,1,4,No,0
+4362,Female,19,Vadodara,Student,4,0,5.52,5,0,'Less than 5 hours',Healthy,'Class 12',No,12,1,Yes,1
+4366,Male,31,Nashik,Student,3,0,9.21,3,0,'Less than 5 hours',Moderate,B.Ed,No,12,1,Yes,0
+4379,Female,32,Hyderabad,Student,2,0,8.5,2,0,'7-8 hours',Healthy,B.Tech,Yes,6,4,No,1
+4380,Male,20,Patna,Student,2,0,5.72,3,0,'7-8 hours',Unhealthy,'Class 12',Yes,10,1,No,1
+4381,Female,23,Thane,Student,5,0,7.09,3,0,'7-8 hours',Healthy,B.Ed,Yes,1,5,No,1
+4390,Female,29,Visakhapatnam,Student,4,0,9.79,5,0,'Less than 5 hours',Healthy,B.Arch,No,3,2,No,0
+4399,Female,19,Ghaziabad,Student,1,0,6.83,2,0,'7-8 hours',Healthy,'Class 12',No,5,1,Yes,0
+4410,Male,21,Agra,Student,1,0,6.74,2,0,'5-6 hours',Unhealthy,B.Com,Yes,9,5,Yes,1
+4411,Male,26,Ahmedabad,Student,3,0,8.9,5,0,'7-8 hours',Moderate,MD,No,4,1,Yes,0
+4413,Male,28,Visakhapatnam,Student,2,0,8.5,1,0,'5-6 hours',Moderate,BCA,Yes,6,3,Yes,1
+4414,Male,23,Bhopal,Student,3,0,6.37,5,0,'More than 8 hours',Unhealthy,MA,Yes,4,5,Yes,0
+4417,Male,18,Kolkata,Student,5,0,6.37,3,0,'Less than 5 hours',Moderate,'Class 12',Yes,6,5,Yes,1
+4424,Male,19,Kolkata,Student,4,0,7.3,3,0,'5-6 hours',Unhealthy,'Class 12',Yes,4,3,No,1
+4435,Female,29,Chennai,Student,3,0,5.76,4,0,'7-8 hours',Healthy,PhD,Yes,12,4,Yes,1
+4437,Male,19,Hyderabad,Student,3,0,9.6,3,0,'More than 8 hours',Healthy,'Class 12',No,2,2,Yes,1
+4439,Male,22,Jaipur,Student,1,0,7.28,4,0,'7-8 hours',Moderate,B.Com,No,0,1,Yes,0
+4440,Female,23,Pune,Student,5,0,7.02,5,0,'Less than 5 hours',Unhealthy,B.Com,Yes,10,1,Yes,1
+4441,Female,28,Kalyan,Student,3,0,9.39,5,0,'7-8 hours',Moderate,M.Ed,Yes,3,1,No,0
+4447,Male,21,Lucknow,Student,3,0,8.04,1,0,'More than 8 hours',Unhealthy,M.Com,Yes,12,3,Yes,1
+4449,Male,19,Indore,Student,1,0,8.04,1,0,'Less than 5 hours',Healthy,'Class 12',Yes,5,2,Yes,0
+4451,Male,29,Hyderabad,Student,4,0,5.12,1,0,'Less than 5 hours',Unhealthy,ME,Yes,6,5,No,1
+4461,Female,20,Patna,Student,2,0,8.96,4,0,'7-8 hours',Moderate,'Class 12',Yes,12,3,No,1
+4464,Female,34,Bangalore,Student,2,0,9.91,5,0,'5-6 hours',Moderate,BCA,No,6,1,Yes,0
+4474,Male,31,Patna,Student,5,0,5.72,1,0,'Less than 5 hours',Moderate,'Class 12',Yes,11,5,No,1
+4480,Female,22,Indore,Student,4,0,6.33,5,0,'7-8 hours',Moderate,M.Com,No,6,4,No,1
+4484,Female,33,Srinagar,Student,3,0,8.74,3,0,'More than 8 hours',Moderate,MCA,Yes,4,1,No,0
+4491,Male,24,Rajkot,Student,5,0,5.88,3,0,'7-8 hours',Unhealthy,M.Com,Yes,8,5,No,1
+4492,Female,20,Kanpur,Student,3,0,6.99,1,0,'7-8 hours',Healthy,'Class 12',No,11,4,Yes,0
+4499,Male,20,Mumbai,Student,5,0,5.57,2,0,'Less than 5 hours',Healthy,'Class 12',Yes,4,5,Yes,1
+4500,Female,29,Vadodara,Student,3,0,7.88,1,0,'Less than 5 hours',Moderate,B.Tech,Yes,10,5,Yes,1
+4509,Female,29,Indore,Student,4,0,7.72,4,0,'Less than 5 hours',Moderate,BSc,No,5,5,No,1
+4510,Female,21,Patna,Student,3,0,5.86,2,0,'7-8 hours',Healthy,MA,Yes,8,4,No,1
+4511,Female,33,Vasai-Virar,Student,1,0,7.27,2,0,'7-8 hours',Moderate,MSc,No,12,4,No,0
+4516,Female,30,Surat,Student,2,0,8.21,2,0,'More than 8 hours',Healthy,M.Ed,No,0,2,No,0
+4519,Female,24,Rajkot,Student,3,0,6.99,2,0,'5-6 hours',Moderate,'Class 12',Yes,7,1,No,1
+4528,Female,20,Thane,Student,3,0,7.22,1,0,'7-8 hours',Unhealthy,'Class 12',Yes,12,3,Yes,1
+4538,Female,30,Kolkata,Student,2,0,8.95,5,0,'7-8 hours',Unhealthy,BSc,Yes,12,5,Yes,1
+4546,Male,25,Surat,Student,5,0,8.95,2,0,'7-8 hours',Unhealthy,M.Pharm,Yes,10,4,No,1
+4560,Male,23,Visakhapatnam,Student,1,0,9.93,2,0,'Less than 5 hours',Moderate,M.Com,No,0,2,Yes,0
+4564,Female,28,Chennai,Student,3,0,7.28,4,0,'More than 8 hours',Unhealthy,MSc,Yes,0,3,Yes,0
+4570,Male,22,Kolkata,Student,2,0,9.67,2,0,'Less than 5 hours',Unhealthy,BBA,Yes,6,3,Yes,0
+4571,Male,29,Indore,Student,2,0,9.44,4,0,'Less than 5 hours',Moderate,B.Com,Yes,12,5,No,1
+4591,Male,27,Meerut,Student,4,0,6.78,3,0,'Less than 5 hours',Unhealthy,B.Tech,Yes,8,1,No,1
+4607,Male,33,Nagpur,Student,5,0,7.77,3,0,'7-8 hours',Unhealthy,B.Tech,Yes,12,4,No,1
+4611,Female,33,Srinagar,Student,5,0,8.59,4,0,'5-6 hours',Unhealthy,'Class 12',Yes,12,4,Yes,1
+4614,Female,21,Chennai,Student,3,0,5.12,1,0,'More than 8 hours',Moderate,MCA,No,11,3,No,0
+4615,Female,27,Hyderabad,Student,3,0,7.92,3,0,'7-8 hours',Moderate,LLM,No,11,1,Yes,0
+4618,Female,26,Bangalore,Student,5,0,5.99,1,0,'More than 8 hours',Moderate,B.Tech,Yes,7,1,No,1
+4621,Male,23,Pune,Student,1,0,9.39,2,0,'5-6 hours',Moderate,B.Com,Yes,9,5,Yes,0
+4624,Male,21,Visakhapatnam,Student,5,0,6.21,4,0,'7-8 hours',Healthy,B.Com,No,10,2,Yes,1
+4635,Female,20,Ghaziabad,Student,5,0,7.7,2,0,'7-8 hours',Moderate,'Class 12',Yes,12,2,No,1
+4643,Female,22,Vasai-Virar,Student,4,0,8.07,2,0,'5-6 hours',Healthy,MBA,Yes,4,4,Yes,1
+4647,Female,31,Hyderabad,Student,3,0,9.33,5,0,'7-8 hours',Healthy,M.Ed,Yes,10,4,Yes,1
+4657,Male,23,Meerut,Student,2,0,8.04,4,0,'Less than 5 hours',Moderate,B.Tech,Yes,8,1,No,1
+4661,Male,20,Hyderabad,Student,4,0,5.16,1,0,'More than 8 hours',Healthy,'Class 12',No,5,4,Yes,1
+4668,Female,26,Chennai,Student,5,0,5.85,1,0,'5-6 hours',Unhealthy,MD,No,4,2,No,0
+4673,Male,20,Rajkot,Student,4,0,8.03,1,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,9,5,No,1
+4674,Female,24,Nashik,Student,3,0,8.37,4,0,'7-8 hours',Healthy,MBBS,No,12,2,No,0
+4680,Male,18,Mumbai,Student,1,0,6.26,2,0,'Less than 5 hours',Moderate,'Class 12',Yes,8,1,Yes,0
+4698,Female,29,Ahmedabad,Student,3,0,8.04,4,0,'Less than 5 hours',Moderate,'Class 12',Yes,4,1,No,1
+4700,Female,21,Hyderabad,Student,4,0,9.93,5,0,'More than 8 hours',Unhealthy,B.Com,Yes,7,4,No,1
+4714,Male,32,Varanasi,Student,2,0,5.98,4,0,'7-8 hours',Healthy,M.Com,No,12,2,Yes,0
+4715,Male,22,Surat,Student,4,0,7.38,3,0,'7-8 hours',Moderate,MSc,Yes,8,4,Yes,1
+4717,Male,29,Lucknow,Student,2,0,8,3,0,'7-8 hours',Moderate,BCA,Yes,11,4,No,1
+4718,Male,22,Bhopal,Student,1,0,9.88,3,0,'More than 8 hours',Healthy,B.Com,No,0,2,Yes,0
+4725,Male,19,Kolkata,Student,2,0,9.56,2,0,'Less than 5 hours',Moderate,'Class 12',Yes,0,2,Yes,0
+4727,Male,28,Bangalore,Student,5,0,8.74,1,0,'Less than 5 hours',Healthy,MCA,Yes,10,1,No,1
+4730,Male,24,Hyderabad,Student,3,0,9.44,4,0,'Less than 5 hours',Unhealthy,MCA,No,0,4,No,0
+4740,Male,29,Nashik,Student,3,0,6.7,1,0,'More than 8 hours',Moderate,BCA,No,4,4,Yes,0
+4756,Male,22,Kanpur,Student,1,0,6.23,1,0,'More than 8 hours',Moderate,'Class 12',No,2,4,Yes,0
+4758,Male,24,Kanpur,Student,4,0,5.46,1,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,6,4,No,1
+4765,Female,23,Patna,Student,3,0,7.79,1,0,'Less than 5 hours',Unhealthy,BSc,Yes,10,3,No,1
+4768,Female,32,Ludhiana,Student,4,0,7.04,2,0,'Less than 5 hours',Healthy,BCA,Yes,7,2,No,1
+4770,Female,24,Hyderabad,Student,4,0,7.09,1,0,'Less than 5 hours',Unhealthy,LLB,Yes,9,5,Yes,1
+4773,Male,29,Vadodara,Student,4,0,6.99,1,0,'5-6 hours',Unhealthy,M.Pharm,Yes,1,2,No,1
+4780,Male,27,Srinagar,Student,2,0,7.46,3,0,'7-8 hours',Unhealthy,BHM,Yes,6,5,No,1
+4784,Male,18,Ahmedabad,Student,5,0,5.64,4,0,'7-8 hours',Unhealthy,'Class 12',Yes,9,3,No,1
+4787,Female,20,Ludhiana,Student,4,0,7.77,2,0,'Less than 5 hours',Healthy,'Class 12',No,10,2,No,0
+4790,Male,24,Ludhiana,Student,3,0,5.26,4,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,4,5,Yes,1
+4800,Male,34,Nashik,Student,4,0,8.07,2,0,'5-6 hours',Moderate,BCA,Yes,0,4,No,0
+4807,Male,18,Bhopal,Student,1,0,9.86,1,0,'More than 8 hours',Unhealthy,'Class 12',Yes,12,2,No,1
+4820,Female,22,Agra,Student,3,0,5.82,1,0,'Less than 5 hours',Moderate,M.Com,Yes,5,3,No,1
+4826,Male,28,Ghaziabad,Student,1,0,9.33,3,0,'Less than 5 hours',Unhealthy,B.Pharm,No,4,1,No,0
+4827,Male,30,Bangalore,Student,5,0,8.19,3,0,'7-8 hours',Moderate,BSc,No,8,3,Yes,1
+4832,Male,34,Hyderabad,Student,2,0,9.98,1,0,'More than 8 hours',Moderate,B.Tech,Yes,12,2,Yes,0
+4839,Male,31,Patna,Student,5,0,6.53,1,0,'Less than 5 hours',Moderate,'Class 12',No,12,4,No,1
+4846,Female,31,Ahmedabad,Student,5,0,9.79,2,0,'More than 8 hours',Healthy,PhD,Yes,3,1,Yes,0
+4849,Male,27,Ghaziabad,Student,3,0,9.13,4,0,'5-6 hours',Moderate,BCA,No,12,5,Yes,0
+4858,Female,18,Kolkata,Student,4,0,8.28,3,0,'7-8 hours',Unhealthy,'Class 12',No,11,1,No,1
+4862,Male,19,Ludhiana,Student,5,0,9.67,1,0,'More than 8 hours',Moderate,'Class 12',Yes,4,2,No,1
+4868,Male,33,Chennai,Student,1,0,8.38,5,0,'More than 8 hours',Unhealthy,PhD,No,4,1,No,0
+4870,Male,26,Bangalore,Student,5,0,8.65,2,0,'Less than 5 hours',Unhealthy,BHM,No,6,2,Yes,0
+4872,Female,29,Kanpur,Student,4,0,9.24,3,0,'5-6 hours',Unhealthy,MSc,Yes,2,4,No,1
+4878,Male,23,Ahmedabad,Student,1,0,6.53,2,0,'5-6 hours',Unhealthy,MBA,Yes,9,3,No,0
+4887,Male,32,Srinagar,Student,3,0,6.03,1,0,'More than 8 hours',Unhealthy,PhD,No,1,2,No,0
+4901,Female,33,Kolkata,Student,2,0,7.53,5,0,'More than 8 hours',Moderate,M.Pharm,Yes,0,4,No,1
+4918,Female,34,Bhopal,Student,4,0,7.87,3,0,'7-8 hours',Moderate,M.Tech,No,8,5,No,0
+4921,Male,18,Vasai-Virar,Student,4,0,9.6,3,0,'7-8 hours',Unhealthy,'Class 12',Yes,10,5,No,1
+4927,Male,24,Vadodara,Student,4,0,6,3,0,'More than 8 hours',Unhealthy,'Class 12',Yes,9,1,Yes,1
+4935,Female,33,Vasai-Virar,Student,4,0,8.9,3,0,'7-8 hours',Healthy,MBA,Yes,8,4,Yes,1
+4937,Female,23,Pune,Student,1,0,6.17,5,0,'7-8 hours',Moderate,MCA,Yes,5,1,No,0
+4939,Female,20,Vasai-Virar,Student,4,0,7.39,3,0,'7-8 hours',Unhealthy,'Class 12',Yes,12,2,Yes,1
+4949,Female,24,Kalyan,Student,5,0,5.77,2,0,'5-6 hours',Moderate,MBBS,No,8,5,Yes,1
+4955,Female,33,Ghaziabad,Student,5,0,5.11,2,0,'Less than 5 hours',Moderate,MSc,No,0,2,Yes,0
+4964,Male,24,Jaipur,Student,5,0,8.13,1,0,'5-6 hours',Moderate,B.Arch,No,12,5,Yes,1
+4970,Female,29,Bhopal,Student,4,0,5.56,1,0,'More than 8 hours',Healthy,MCA,No,12,3,Yes,0
+4971,Male,29,Jaipur,Student,3,0,9.96,3,0,'5-6 hours',Unhealthy,BSc,Yes,10,3,Yes,1
+4975,Male,26,Mumbai,Student,5,0,8.09,2,0,'5-6 hours',Moderate,BBA,Yes,1,2,No,1
+4979,Male,19,Varanasi,Student,5,0,8.7,1,0,'Less than 5 hours',Moderate,'Class 12',Yes,2,5,No,1
+4981,Female,25,Thane,Student,4,0,7.8,4,0,'Less than 5 hours',Unhealthy,MBA,No,2,4,No,0
+4985,Male,19,Ludhiana,Student,4,0,9.6,4,0,'7-8 hours',Moderate,'Class 12',Yes,3,5,No,1
+4995,Female,26,Chennai,Student,1,0,9.59,5,0,'5-6 hours',Moderate,'Class 12',No,3,4,Yes,0
+4997,Female,33,Surat,Student,2,0,9.88,2,0,'More than 8 hours',Moderate,B.Com,No,4,1,No,0
+4998,Male,18,Kolkata,Student,3,0,8.19,4,0,'7-8 hours',Healthy,'Class 12',Yes,1,2,Yes,1
+5008,Male,33,Agra,Student,5,0,9.54,1,0,'5-6 hours',Healthy,B.Pharm,Yes,7,2,No,1
+5009,Female,27,Varanasi,Student,2,0,9.93,4,0,'More than 8 hours',Healthy,B.Com,No,5,1,No,0
+5010,Male,30,Lucknow,Student,3,0,5.37,4,0,'7-8 hours',Healthy,MBA,No,11,4,Yes,0
+5011,Male,34,Agra,Student,2,0,9.84,3,0,'5-6 hours',Moderate,B.Ed,No,11,4,Yes,0
+5015,Male,18,Hyderabad,Student,2,0,5.72,2,0,'More than 8 hours',Moderate,'Class 12',No,8,3,No,0
+5017,Female,26,Chennai,Student,2,0,7.25,1,0,'5-6 hours',Healthy,BE,No,11,2,No,0
+5018,Female,28,Kanpur,Student,4,0,9.44,5,0,'More than 8 hours',Healthy,B.Ed,Yes,6,2,Yes,0
+5038,Male,18,Vasai-Virar,Student,5,0,6.02,1,0,'Less than 5 hours',Healthy,'Class 12',Yes,12,3,Yes,1
+5045,Male,25,Thane,Student,5,0,7.53,1,0,'Less than 5 hours',Healthy,BHM,Yes,3,2,No,1
+5046,Female,20,Indore,Student,5,0,7.09,1,0,'More than 8 hours',Moderate,'Class 12',Yes,6,5,No,1
+5049,Male,24,Hyderabad,Student,2,0,5.89,3,0,'7-8 hours',Healthy,B.Arch,Yes,11,4,No,1
+5051,Male,20,Srinagar,Student,3,0,8.65,3,0,'5-6 hours',Unhealthy,'Class 12',No,7,4,No,0
+5056,Male,23,Patna,Student,3,0,6.99,4,0,'7-8 hours',Moderate,B.Pharm,Yes,0,2,Yes,1
+5062,Female,27,Thane,Student,3,0,8.7,2,0,'Less than 5 hours',Unhealthy,B.Com,Yes,7,3,Yes,1
+5064,Female,19,Bhopal,Student,1,0,7.09,2,0,'5-6 hours',Moderate,'Class 12',Yes,1,1,Yes,0
+5066,Female,33,Surat,Student,1,0,5.12,3,0,'Less than 5 hours',Unhealthy,BCA,No,5,5,Yes,0
+5070,Female,21,Bangalore,Student,2,0,6.99,4,0,'Less than 5 hours',Unhealthy,BBA,No,5,5,No,1
+5071,Female,27,Agra,Student,4,0,5.51,5,0,'5-6 hours',Unhealthy,MCA,Yes,10,1,No,0
+5073,Male,19,Kolkata,Student,1,0,9.05,5,0,'7-8 hours',Moderate,'Class 12',No,2,4,No,0
+5078,Female,34,Vasai-Virar,Student,1,0,6.28,3,0,'Less than 5 hours',Moderate,MD,Yes,9,2,No,1
+5080,Female,28,Kalyan,Student,3,0,7.94,5,0,'More than 8 hours',Moderate,BHM,No,0,1,Yes,0
+5082,Female,20,Kanpur,Student,4,0,5.08,5,0,'More than 8 hours',Moderate,B.Com,Yes,0,3,Yes,0
+5089,Female,31,Ghaziabad,Student,5,0,8.52,2,0,'Less than 5 hours',Healthy,MBBS,No,9,1,No,0
+5090,Female,20,Vasai-Virar,Student,5,0,7.47,3,0,'5-6 hours',Unhealthy,'Class 12',Yes,12,5,Yes,1
+5092,Male,30,Thane,Student,5,0,7.15,3,0,'Less than 5 hours',Moderate,LLB,Yes,6,2,Yes,1
+5097,Female,19,Kolkata,Student,5,0,7.38,1,0,'7-8 hours',Unhealthy,'Class 12',Yes,10,2,No,1
+5105,Female,21,Ghaziabad,Student,3,0,9.91,2,0,'7-8 hours',Healthy,M.Com,No,8,3,No,1
+5106,Male,29,Nashik,Student,5,0,8.04,5,0,'7-8 hours',Moderate,B.Ed,Yes,11,5,No,1
+5110,Male,32,Hyderabad,Student,2,0,9.21,1,0,'More than 8 hours',Moderate,M.Tech,No,11,4,Yes,0
+5113,Male,29,Agra,Student,2,0,7.38,2,0,'7-8 hours',Moderate,MSc,Yes,8,2,No,1
+5122,Male,34,Bhopal,Student,2,0,9.86,3,0,'Less than 5 hours',Moderate,B.Ed,Yes,8,5,No,1
+5125,Female,33,Srinagar,Student,2,0,7.8,2,0,'Less than 5 hours',Moderate,BE,Yes,12,5,No,0
+5128,Male,30,Srinagar,Student,4,0,6.99,4,0,'More than 8 hours',Unhealthy,B.Tech,Yes,0,3,Yes,0
+5130,Female,28,Kalyan,Student,3,0,9.6,4,0,'Less than 5 hours',Moderate,B.Tech,Yes,2,5,Yes,1
+5136,Male,28,Surat,Student,4,0,5.74,3,0,'More than 8 hours',Unhealthy,M.Pharm,No,6,1,Yes,0
+5142,Female,31,Delhi,Student,3,0,8.93,2,0,'Less than 5 hours',Healthy,LLM,No,12,1,No,0
+5144,Male,29,Delhi,Student,4,0,7.64,4,0,'7-8 hours',Unhealthy,'Class 12',Yes,7,4,Yes,1
+5152,Male,29,Visakhapatnam,Student,3,0,7.94,3,0,'5-6 hours',Moderate,BSc,No,2,1,Yes,0
+5153,Male,19,Ahmedabad,Student,3,0,8.73,1,0,'More than 8 hours',Unhealthy,'Class 12',Yes,5,4,Yes,1
+5156,Male,22,Srinagar,Student,5,0,5.56,4,0,'5-6 hours',Unhealthy,B.Com,Yes,11,5,Yes,1
+5160,Male,33,Rajkot,Student,2,0,5.7,4,0,'More than 8 hours',Unhealthy,MD,No,4,3,Yes,0
+5164,Female,24,Ghaziabad,Student,4,0,6.03,2,0,'Less than 5 hours',Moderate,B.Arch,Yes,10,5,No,1
+5165,Female,19,Delhi,Student,5,0,5.64,5,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,8,5,Yes,1
+5166,Female,22,Nagpur,Student,2,0,8.04,4,0,'5-6 hours',Moderate,BCA,Yes,12,3,Yes,0
+5177,Male,30,Hyderabad,Student,1,0,8.74,5,0,'More than 8 hours',Unhealthy,MCA,Yes,4,1,Yes,0
+5189,Female,30,Kalyan,Student,5,0,7.21,4,0,'7-8 hours',Healthy,MD,No,8,2,No,0
+5198,Male,29,Lucknow,Student,2,0,5.89,3,0,'7-8 hours',Unhealthy,BSc,No,11,3,Yes,1
+5205,Male,28,Vasai-Virar,Student,4,0,9.44,2,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,0,2,Yes,1
+5220,Male,19,Indore,Student,1,0,10,3,0,'More than 8 hours',Moderate,'Class 12',Yes,2,1,No,0
+5236,Male,34,Jaipur,Student,1,0,6.37,1,0,'5-6 hours',Moderate,M.Ed,No,4,3,Yes,0
+5242,Female,19,Kanpur,Student,1,0,8.04,1,0,'5-6 hours',Healthy,'Class 12',Yes,0,2,No,0
+5245,Female,20,Agra,Student,3,0,9.66,4,0,'7-8 hours',Moderate,'Class 12',Yes,0,5,Yes,1
+5251,Male,29,Mumbai,Student,5,0,7.1,3,0,'7-8 hours',Unhealthy,MSc,Yes,10,3,No,1
+5255,Female,25,Kanpur,Student,5,0,7.35,3,0,'More than 8 hours',Moderate,MHM,Yes,0,1,Yes,1
+5260,Female,26,Ghaziabad,Student,5,0,9.05,1,0,'More than 8 hours',Healthy,MA,Yes,12,3,Yes,1
+5265,Male,24,Surat,Student,1,0,6.53,5,0,'5-6 hours',Unhealthy,B.Pharm,No,7,5,Yes,0
+5278,Male,29,Ghaziabad,Student,2,0,7.53,4,0,'5-6 hours',Healthy,B.Arch,Yes,11,1,Yes,1
+5287,Male,20,Agra,Student,3,0,7.68,1,0,'More than 8 hours',Healthy,'Class 12',Yes,7,1,No,0
+5291,Male,27,Nashik,Student,5,0,8.46,3,0,'More than 8 hours',Unhealthy,BBA,Yes,10,4,Yes,1
+5292,Female,34,Nashik,Student,1,0,7.09,3,0,'5-6 hours',Healthy,B.Arch,No,2,5,No,0
+5295,Female,28,Meerut,Student,5,0,6.83,2,0,'Less than 5 hours',Healthy,B.Ed,Yes,7,1,No,1
+5301,Female,27,Nagpur,Student,1,0,6.04,5,0,'Less than 5 hours',Moderate,MBBS,No,10,1,No,0
+5302,Male,26,Visakhapatnam,Student,3,0,7.37,3,0,'5-6 hours',Moderate,BHM,No,12,3,Yes,1
+5303,Female,25,Vasai-Virar,Student,4,0,6.1,4,0,'Less than 5 hours',Unhealthy,BHM,Yes,1,5,No,1
+5308,Male,29,Delhi,Student,4,0,6.89,4,0,'5-6 hours',Unhealthy,B.Pharm,Yes,6,1,No,1
+5311,Female,23,Ghaziabad,Student,3,0,8.95,4,0,'Less than 5 hours',Moderate,LLB,Yes,7,2,No,1
+5315,Male,19,Ahmedabad,Student,1,0,8.98,4,0,'More than 8 hours',Unhealthy,'Class 12',Yes,10,4,Yes,0
+5331,Male,28,Indore,Student,2,0,9.79,5,0,'More than 8 hours',Unhealthy,LLB,No,6,4,No,0
+5333,Male,23,Ghaziabad,Student,5,0,8.04,1,0,'Less than 5 hours',Moderate,B.Ed,Yes,10,5,Yes,1
+5334,Male,24,Bangalore,Student,3,0,9.72,3,0,'Less than 5 hours',Healthy,BCA,Yes,11,5,No,1
+5336,Male,34,Kanpur,Student,2,0,9.97,3,0,'7-8 hours',Moderate,BCA,No,1,1,Yes,0
+5337,Male,28,Hyderabad,Student,2,0,8.59,4,0,'7-8 hours',Healthy,B.Arch,No,2,2,Yes,0
+5341,Male,30,Srinagar,Student,2,0,9.21,3,0,'Less than 5 hours',Healthy,MSc,No,7,2,No,0
+5343,Female,31,Bangalore,Student,1,0,9.71,3,0,'5-6 hours',Healthy,M.Pharm,Yes,8,3,No,1
+5362,Male,20,Bangalore,Student,2,0,9.67,2,0,'More than 8 hours',Unhealthy,'Class 12',No,4,3,Yes,0
+5382,Female,30,Surat,Student,3,0,9.44,3,0,'Less than 5 hours',Unhealthy,M.Com,Yes,8,5,Yes,1
+5393,Male,21,Thane,Student,5,0,9.5,2,0,'5-6 hours',Moderate,BCA,Yes,1,2,Yes,1
+5403,Female,34,Vasai-Virar,Student,1,0,5.12,4,0,'7-8 hours',Healthy,MCA,No,11,2,No,0
+5404,Male,31,Kolkata,Student,1,0,7.28,3,0,'More than 8 hours',Unhealthy,M.Com,No,8,2,No,0
+5417,Male,25,Varanasi,Student,5,0,7.11,4,0,'More than 8 hours',Unhealthy,B.Arch,Yes,10,5,Yes,1
+5420,Female,20,Bangalore,Student,5,0,5.56,5,0,'More than 8 hours',Healthy,'Class 12',Yes,5,4,No,1
+5434,Male,19,Rajkot,Student,3,0,5.74,5,0,'7-8 hours',Unhealthy,'Class 12',Yes,10,3,Yes,1
+5435,Male,34,Vadodara,Student,1,0,6.27,3,0,'7-8 hours',Unhealthy,LLB,Yes,8,1,Yes,0
+5436,Female,32,Ghaziabad,Student,3,0,8.24,5,0,'7-8 hours',Unhealthy,M.Tech,No,10,4,No,1
+5439,Female,23,Hyderabad,Student,3,0,8.04,5,0,'7-8 hours',Moderate,MSc,Yes,7,4,No,1
+5444,Male,20,Agra,Student,3,0,5.52,3,0,'5-6 hours',Unhealthy,'Class 12',No,0,3,Yes,0
+5451,Male,32,Pune,Student,2,0,8.14,3,0,'7-8 hours',Healthy,MCA,Yes,10,1,No,0
+5462,Female,22,Nagpur,Student,3,0,8.07,1,0,'Less than 5 hours',Unhealthy,MSc,Yes,10,2,No,0
+5465,Male,20,Bhopal,Student,3,0,9.72,3,0,'5-6 hours',Unhealthy,MSc,No,7,2,No,1
+5467,Male,28,Visakhapatnam,Student,5,0,5.85,2,0,'5-6 hours',Healthy,MA,No,10,1,Yes,0
+5473,Female,18,Kolkata,Student,5,0,6.25,2,0,'More than 8 hours',Moderate,'Class 12',Yes,4,4,No,1
+5475,Female,18,Vasai-Virar,Student,1,0,8.54,4,0,'More than 8 hours',Unhealthy,'Class 12',No,5,2,No,1
+5482,Male,34,Mumbai,Student,1,0,8.58,3,0,'5-6 hours',Healthy,MCA,No,2,3,No,0
+5484,Male,24,Vasai-Virar,Student,3,0,5.59,1,0,'7-8 hours',Moderate,MSc,Yes,10,1,Yes,0
+5491,Male,20,Vasai-Virar,Student,4,0,6.42,5,0,'More than 8 hours',Moderate,'Class 12',Yes,8,5,No,1
+5494,Male,28,Delhi,Student,4,0,5.56,4,0,'More than 8 hours',Moderate,MBBS,Yes,9,4,No,1
+5506,Female,20,Hyderabad,Student,3,0,8.58,1,0,'7-8 hours',Healthy,'Class 12',Yes,11,3,No,1
+5507,Female,29,Nashik,Student,4,0,7.25,5,0,'Less than 5 hours',Unhealthy,B.Ed,Yes,6,3,Yes,1
+5513,Male,30,Kalyan,Student,2,0,9.56,3,0,'7-8 hours',Unhealthy,B.Ed,No,0,2,Yes,0
+5516,Male,21,Visakhapatnam,Student,4,0,7.22,2,0,'More than 8 hours',Unhealthy,MBA,No,10,1,Yes,0
+5523,Female,20,Visakhapatnam,Student,1,0,5.66,1,0,'7-8 hours',Moderate,'Class 12',Yes,6,2,Yes,0
+5529,Female,26,Vasai-Virar,Student,5,0,8.73,2,0,'More than 8 hours',Unhealthy,B.Ed,Yes,5,5,Yes,1
+5538,Male,30,Srinagar,Student,2,0,8.04,1,0,'More than 8 hours',Unhealthy,BHM,Yes,10,4,No,1
+5545,Male,24,Patna,Student,4,0,9.74,1,0,'5-6 hours',Moderate,MCA,Yes,12,2,No,1
+5548,Male,21,Visakhapatnam,Student,4,0,8.69,1,0,'Less than 5 hours',Unhealthy,MCA,Yes,12,3,Yes,1
+5550,Female,24,Chennai,Student,2,0,7.53,4,0,'5-6 hours',Unhealthy,MBA,No,1,3,No,0
+5552,Male,29,Vasai-Virar,Student,1,0,7.82,1,0,'Less than 5 hours',Unhealthy,BE,No,7,4,Yes,1
+5555,Female,19,Hyderabad,Student,1,0,8.74,1,0,'5-6 hours',Healthy,'Class 12',No,6,4,No,0
+5560,Female,34,Hyderabad,Student,3,0,8.93,4,0,'5-6 hours',Unhealthy,B.Tech,No,8,1,Yes,0
+5561,Male,18,Bhopal,Student,5,0,6.27,5,0,'Less than 5 hours',Unhealthy,'Class 12',No,6,4,Yes,1
+5563,Male,25,Kalyan,Student,3,0,6.03,5,0,'Less than 5 hours',Healthy,MBBS,Yes,7,3,No,1
+5565,Male,34,Kolkata,Student,1,0,7.5,2,0,'5-6 hours',Moderate,M.Pharm,Yes,4,2,Yes,0
+5568,Female,24,Srinagar,Student,3,0,7.12,3,0,'More than 8 hours',Healthy,M.Pharm,Yes,10,3,No,1
+5569,Female,42,Rajkot,Student,2,0,9.03,5,0,'More than 8 hours',Moderate,'Class 12',Yes,3,1,Yes,0
+5579,Male,32,Nashik,Student,5,0,9.67,3,0,'7-8 hours',Unhealthy,M.Tech,Yes,10,4,Yes,1
+5580,Female,25,Lucknow,Student,4,0,9.05,1,0,'Less than 5 hours',Healthy,B.Arch,No,8,3,Yes,1
+5581,Male,23,Bhopal,Student,5,0,9.93,1,0,'7-8 hours',Healthy,MA,Yes,10,1,Yes,1
+5593,Male,32,Agra,Student,4,0,8.74,4,0,'Less than 5 hours',Healthy,B.Ed,Yes,7,4,No,1
+5601,Male,23,Srinagar,Student,5,0,7.09,1,0,'5-6 hours',Unhealthy,BHM,Yes,2,3,Yes,1
+5603,Male,21,Rajkot,Student,3,0,5.37,2,0,'More than 8 hours',Healthy,B.Arch,Yes,8,2,No,1
+5609,Female,32,Rajkot,Student,2,0,5.46,2,0,'5-6 hours',Moderate,B.Com,Yes,5,2,Yes,1
+5612,Male,34,Srinagar,Student,3,0,7.08,3,0,'5-6 hours',Moderate,MD,Yes,4,1,Yes,0
+5613,Male,27,Visakhapatnam,Student,1,0,8.17,2,0,'Less than 5 hours',Moderate,BE,No,12,3,Yes,1
+5616,Female,28,Hyderabad,Student,5,0,6.78,2,0,'7-8 hours',Unhealthy,'Class 12',Yes,12,5,Yes,1
+5624,Female,24,Surat,Student,4,0,8.9,1,0,'5-6 hours',Moderate,BSc,Yes,2,2,No,1
+5626,Male,21,Ludhiana,Student,5,0,5.57,5,0,'Less than 5 hours',Unhealthy,MCA,Yes,10,5,Yes,1
+5632,Male,30,Ludhiana,Student,1,0,7.52,2,0,'5-6 hours',Moderate,MD,No,3,5,No,0
+5635,Male,25,Bangalore,Student,3,0,7.32,2,0,'More than 8 hours',Healthy,BBA,No,6,1,Yes,0
+5639,Male,27,Ludhiana,Student,4,0,9.43,1,0,'5-6 hours',Moderate,B.Tech,No,12,4,Yes,1
+5659,Female,32,Vasai-Virar,Student,3,0,7.08,1,0,'5-6 hours',Healthy,MSc,No,4,4,Yes,1
+5660,Male,19,Ghaziabad,Student,2,0,6.99,3,0,'5-6 hours',Moderate,'Class 12',Yes,7,3,No,1
+5662,Male,26,Ahmedabad,Student,1,0,9.24,3,0,'7-8 hours',Healthy,BCA,No,1,1,No,0
+5671,Male,21,Patna,Student,4,0,8.04,5,0,'7-8 hours',Unhealthy,B.Tech,Yes,12,5,Yes,1
+5672,Male,29,Surat,Student,5,0,5.11,5,0,'Less than 5 hours',Healthy,MSc,Yes,11,3,No,1
+5681,Male,18,Pune,Student,4,0,8.04,3,0,'7-8 hours',Unhealthy,'Class 12',Yes,7,2,No,0
+5686,Female,22,Jaipur,Student,5,0,5.26,4,0,'Less than 5 hours',Moderate,B.Com,No,0,4,No,0
+5693,Female,19,Ludhiana,Student,4,0,7.53,1,0,'5-6 hours',Unhealthy,'Class 12',Yes,10,3,Yes,1
+5702,Female,22,Vasai-Virar,Student,4,0,6.03,2,0,'5-6 hours',Unhealthy,MBA,No,7,5,No,1
+5708,Female,20,Mumbai,Student,5,0,9.96,2,0,'More than 8 hours',Moderate,'Class 12',Yes,12,1,Yes,1
+5709,Male,30,Kalyan,Student,2,0,9.84,3,0,'More than 8 hours',Moderate,M.Com,No,12,3,Yes,0
+5712,Male,30,Kalyan,Student,1,0,5.7,3,0,'Less than 5 hours',Moderate,MSc,No,1,2,No,0
+5713,Male,29,Bangalore,Student,2,0,8.7,4,0,'More than 8 hours',Moderate,'Class 12',No,3,1,No,0
+5714,Male,27,Agra,Student,1,0,6.47,2,0,'5-6 hours',Unhealthy,BHM,No,8,2,Yes,0
+5719,Male,33,Jaipur,Student,2,0,6.17,3,0,'5-6 hours',Moderate,B.Com,Yes,12,5,No,1
+5730,Male,20,Nagpur,Student,1,0,9.87,4,0,'More than 8 hours',Unhealthy,'Class 12',No,6,1,No,0
+5746,Male,29,Ludhiana,Student,4,0,9.96,2,0,'Less than 5 hours',Moderate,M.Pharm,Yes,1,5,No,1
+5748,Female,26,Thane,Student,2,0,7.88,5,0,'5-6 hours',Moderate,LLB,Yes,12,1,No,0
+5749,Male,28,Bhopal,Student,2,0,9.69,3,0,'More than 8 hours',Unhealthy,B.Com,Yes,8,5,Yes,1
+5751,Female,28,Varanasi,Student,3,0,5.65,3,0,'More than 8 hours',Moderate,B.Ed,Yes,8,3,Yes,1
+5758,Male,33,Pune,Student,2,0,5.76,4,0,'5-6 hours',Unhealthy,MSc,No,8,5,Yes,1
+5765,Male,25,Varanasi,Student,2,0,6.04,1,0,'Less than 5 hours',Unhealthy,B.Arch,No,8,5,Yes,1
+5768,Female,26,Vasai-Virar,Student,2,0,7.38,5,0,'5-6 hours',Healthy,'Class 12',No,10,4,No,0
+5769,Male,18,Thane,Student,5,0,7.47,1,0,'More than 8 hours',Unhealthy,'Class 12',Yes,11,2,No,1
+5786,Male,33,Bhopal,Student,3,0,7.13,3,0,'More than 8 hours',Moderate,B.Com,No,11,5,No,1
+5787,Female,30,Lucknow,Student,3,0,5.27,2,0,'Less than 5 hours',Healthy,B.Com,No,2,4,Yes,0
+5822,Female,23,Mumbai,Student,2,0,5.51,3,0,'Less than 5 hours',Healthy,M.Ed,Yes,6,2,No,0
+5835,Male,22,Jaipur,Student,1,0,7.02,4,0,'7-8 hours',Moderate,B.Tech,No,11,3,Yes,0
+5836,Female,29,Thane,Student,1,0,6.78,2,0,'Less than 5 hours',Healthy,BHM,Yes,12,1,No,1
+5837,Female,19,Ahmedabad,Student,3,0,7.6,5,0,'5-6 hours',Moderate,'Class 12',Yes,5,1,No,1
+5842,Male,26,Patna,Student,3,0,8.97,1,0,'Less than 5 hours',Moderate,B.Pharm,Yes,1,4,No,1
+5845,Male,25,Ahmedabad,Student,2,0,9.71,4,0,'Less than 5 hours',Moderate,B.Com,Yes,1,4,Yes,0
+5857,Male,21,Varanasi,Student,1,0,7.88,2,0,'Less than 5 hours',Moderate,B.Arch,No,2,2,No,0
+5872,Male,21,Nashik,Student,4,0,8.74,4,0,'Less than 5 hours',Unhealthy,BCA,Yes,10,3,No,1
+5879,Female,33,Srinagar,Student,5,0,9.71,1,0,'More than 8 hours',Moderate,MA,Yes,10,4,No,1
+5881,Female,20,Lucknow,Student,5,0,7.51,4,0,'7-8 hours',Healthy,'Class 12',Yes,2,5,Yes,1
+5885,Male,31,Ahmedabad,Student,4,0,9.43,5,0,'7-8 hours',Moderate,M.Ed,Yes,6,4,No,1
+5886,Male,24,Hyderabad,Student,4,0,7.1,1,0,'5-6 hours',Healthy,M.Pharm,Yes,10,5,No,1
+5887,Female,31,Srinagar,Student,3,0,9.63,4,0,'7-8 hours',Moderate,M.Ed,No,5,1,Yes,0
+5892,Female,34,Kalyan,Student,1,0,8.95,2,0,'More than 8 hours',Unhealthy,B.Ed,No,10,3,No,0
+5894,Male,20,Surat,Student,3,0,9.89,3,0,'More than 8 hours',Unhealthy,'Class 12',Yes,10,2,Yes,1
+5898,Male,24,Nashik,Student,5,0,6.21,5,0,'7-8 hours',Healthy,MBBS,No,5,4,Yes,0
+5899,Male,21,Lucknow,Student,4,0,7.25,1,0,'5-6 hours',Unhealthy,B.Com,Yes,9,2,No,1
+5903,Female,31,Visakhapatnam,Student,5,0,9.74,1,0,'More than 8 hours',Unhealthy,B.Ed,Yes,4,5,Yes,1
+5920,Male,24,Ghaziabad,Student,5,0,8.04,5,0,'Less than 5 hours',Healthy,BCA,Yes,10,5,No,1
+5924,Male,28,Surat,Student,2,0,5.97,2,0,'5-6 hours',Healthy,MD,No,3,5,No,0
+5931,Male,27,Jaipur,Student,4,0,8.69,2,0,'More than 8 hours',Unhealthy,B.Ed,Yes,5,5,Yes,1
+5932,Female,21,Hyderabad,Student,5,0,5.59,1,0,'7-8 hours',Healthy,BCA,Yes,11,5,Yes,1
+5936,Male,21,Ahmedabad,Student,5,0,9.04,2,0,'More than 8 hours',Healthy,B.Arch,Yes,6,3,Yes,1
+5948,Male,24,Ludhiana,Student,5,0,5.85,1,0,'More than 8 hours',Healthy,B.Com,Yes,10,2,No,1
+5951,Female,19,Nagpur,Student,1,0,9.74,4,0,'5-6 hours',Moderate,'Class 12',No,2,3,No,0
+5953,Female,20,Pune,Student,1,0,6.17,3,0,'7-8 hours',Healthy,'Class 12',Yes,9,3,No,0
+5954,Male,28,Vasai-Virar,Student,3,0,5.7,5,0,'Less than 5 hours',Healthy,M.Ed,No,7,1,Yes,0
+5967,Male,28,Lucknow,Student,4,0,8.24,2,0,'More than 8 hours',Unhealthy,B.Arch,No,10,5,No,1
+5976,Male,23,Ahmedabad,Student,5,0,7.88,4,0,'5-6 hours',Moderate,BE,No,6,1,No,1
+5977,Male,21,Meerut,Student,2,0,5.88,1,0,'5-6 hours',Unhealthy,BCA,No,12,3,No,1
+5980,Male,24,Ghaziabad,Student,5,0,9.95,2,0,'7-8 hours',Healthy,B.Arch,Yes,0,5,No,1
+5981,Male,33,Jaipur,Student,3,0,6.37,3,0,'7-8 hours',Moderate,MCA,No,0,4,Yes,0
+5982,Female,33,Indore,Student,2,0,5.45,5,0,'Less than 5 hours',Unhealthy,M.Ed,Yes,10,5,Yes,1
+5987,Male,32,Patna,Student,3,0,7.15,5,0,'5-6 hours',Moderate,MA,No,6,3,Yes,0
+5991,Male,24,Surat,Student,4,0,9.05,2,0,'More than 8 hours',Unhealthy,MCA,Yes,8,2,No,1
+5992,Male,29,Thane,Student,4,0,8.73,2,0,'7-8 hours',Unhealthy,LLM,Yes,7,2,No,1
+5995,Male,20,Delhi,Student,5,0,5.64,3,0,'5-6 hours',Healthy,'Class 12',Yes,0,5,No,1
+5996,Female,29,Ludhiana,Student,5,0,9.91,4,0,'Less than 5 hours',Unhealthy,MHM,No,9,1,Yes,0
+5998,Female,27,Ahmedabad,Student,3,0,9.24,4,0,'More than 8 hours',Unhealthy,PhD,Yes,12,5,No,1
+6003,Female,18,Surat,Student,3,0,9.24,2,0,'5-6 hours',Moderate,'Class 12',Yes,12,1,Yes,1
+6006,Female,26,Nagpur,Student,4,0,8.91,2,0,'5-6 hours',Healthy,B.Arch,Yes,11,1,Yes,1
+6011,Female,20,Vasai-Virar,Student,5,0,9.63,3,0,'5-6 hours',Moderate,'Class 12',Yes,10,5,Yes,1
+6012,Female,34,Indore,Student,3,0,7.46,2,0,'More than 8 hours',Unhealthy,B.Tech,No,3,4,Yes,0
+6013,Male,33,Chennai,Student,5,0,8.54,1,0,'5-6 hours',Healthy,M.Tech,No,11,1,Yes,0
+6019,Male,18,Ghaziabad,Student,3,0,8.93,5,0,'5-6 hours',Unhealthy,'Class 12',Yes,7,5,No,1
+6020,Male,27,Kalyan,Student,5,0,6.47,1,0,'More than 8 hours',Healthy,B.Arch,Yes,11,5,Yes,1
+6024,Female,29,Rajkot,Student,4,0,9.88,1,0,'7-8 hours',Healthy,BA,Yes,11,5,No,1
+6033,Female,20,Bhopal,Student,4,0,9.79,3,0,'5-6 hours',Unhealthy,'Class 12',Yes,6,5,Yes,1
+6034,Female,21,Agra,Student,1,0,5.1,5,0,'7-8 hours',Healthy,B.Com,Yes,7,5,Yes,1
+6042,Female,25,Agra,Student,3,0,6.03,4,0,'Less than 5 hours',Unhealthy,B.Pharm,No,12,5,No,0
+6049,Female,34,Rajkot,Student,4,0,8.24,2,0,'Less than 5 hours',Healthy,B.Ed,Yes,12,2,Yes,1
+6051,Female,22,Mumbai,Student,5,0,5.48,4,0,'7-8 hours',Moderate,B.Com,Yes,4,2,No,1
+6052,Male,24,Srinagar,Student,3,0,7.8,1,0,'5-6 hours',Unhealthy,B.Ed,Yes,1,5,No,1
+6057,Male,29,Indore,Student,2,0,7.15,5,0,'Less than 5 hours',Healthy,BHM,No,4,2,No,0
+6063,Female,22,Agra,Student,2,0,5.09,3,0,'7-8 hours',Unhealthy,BBA,No,0,1,Yes,0
+6070,Male,29,Rajkot,Student,4,0,9.72,1,0,'More than 8 hours',Moderate,LLB,Yes,5,3,Yes,1
+6078,Male,32,Srinagar,Student,3,0,7.94,2,0,'More than 8 hours',Moderate,M.Ed,Yes,9,2,Yes,1
+6083,Female,27,Indore,Student,3,0,6.91,2,0,'Less than 5 hours',Unhealthy,B.Com,No,10,4,No,0
+6084,Female,22,Vadodara,Student,5,0,7.25,2,0,'Less than 5 hours',Unhealthy,MBA,No,7,1,Yes,1
+6088,Female,23,Jaipur,Student,1,0,5.58,2,0,'7-8 hours',Healthy,B.Com,No,9,5,No,0
+6090,Male,30,Lucknow,Student,2,0,9.56,3,0,'7-8 hours',Moderate,B.Ed,No,10,5,No,0
+6094,Female,24,Mumbai,Student,3,0,8.65,3,0,'7-8 hours',Moderate,B.Arch,No,11,3,No,1
+6101,Male,33,Rajkot,Student,3,0,8.14,4,0,'7-8 hours',Unhealthy,M.Tech,No,9,3,Yes,1
+6113,Male,29,Mumbai,Student,5,0,9.9,3,0,'7-8 hours',Unhealthy,M.Pharm,Yes,11,5,No,1
+6116,Female,23,Vasai-Virar,Student,1,0,7.94,2,0,'Less than 5 hours',Healthy,B.Com,No,4,5,No,0
+6118,Male,29,Rajkot,Student,1,0,8.39,3,0,'Less than 5 hours',Moderate,M.Pharm,Yes,12,4,Yes,1
+6125,Male,20,Srinagar,Student,5,0,9.42,1,0,'5-6 hours',Moderate,'Class 12',Yes,6,2,No,1
+6137,Female,33,Jaipur,Student,1,0,9.44,3,0,'Less than 5 hours',Unhealthy,B.Ed,No,11,5,No,0
+6139,Female,28,Vadodara,Student,4,0,9.56,4,0,'Less than 5 hours',Healthy,M.Ed,No,7,4,No,0
+6143,Female,23,Srinagar,Student,3,0,6.76,2,0,'More than 8 hours',Moderate,MCA,Yes,9,3,Yes,1
+6156,Male,28,Surat,Student,5,0,5.6,5,0,'Less than 5 hours',Moderate,MA,Yes,10,4,Yes,1
+6174,Male,29,Surat,Student,4,0,8.04,5,0,'5-6 hours',Unhealthy,B.Pharm,Yes,8,3,Yes,1
+6177,Male,20,Ludhiana,Student,3,0,9.04,4,0,'7-8 hours',Moderate,'Class 12',Yes,4,4,No,1
+6183,Female,22,Kalyan,Student,1,0,6,5,0,'Less than 5 hours',Moderate,BCA,Yes,10,2,Yes,0
+6192,Male,27,Kolkata,Student,2,0,8.14,4,0,'7-8 hours',Healthy,M.Pharm,No,1,4,Yes,0
+6196,Male,27,Srinagar,Student,3,0,9.44,3,0,'More than 8 hours',Healthy,B.Ed,No,10,5,Yes,0
+6205,Male,24,Indore,Student,3,0,9.9,2,0,'Less than 5 hours',Healthy,BSc,Yes,11,5,No,1
+6211,Male,20,Indore,Student,5,0,9.11,1,0,'More than 8 hours',Unhealthy,'Class 12',Yes,10,3,No,1
+6214,Male,32,Delhi,Student,2,0,5.85,2,0,'7-8 hours',Moderate,LLB,No,9,3,No,0
+6225,Female,33,Kanpur,Student,3,0,9.97,1,0,'Less than 5 hours',Moderate,MSc,Yes,6,2,Yes,1
+6227,Female,21,Bhopal,Student,3,0,7.94,1,0,'Less than 5 hours',Healthy,MCA,Yes,4,5,No,1
+6228,Female,18,Kalyan,Student,3,0,8.14,5,0,'7-8 hours',Moderate,'Class 12',Yes,11,4,No,1
+6233,Female,29,Surat,Student,2,0,8.59,1,0,'7-8 hours',Unhealthy,MBBS,Yes,7,2,No,0
+6246,Male,26,Lucknow,Student,4,0,9.71,1,0,'5-6 hours',Moderate,M.Tech,Yes,9,1,Yes,1
+6265,Male,33,Ahmedabad,Student,3,0,8.04,1,0,'Less than 5 hours',Unhealthy,M.Tech,No,11,2,No,0
+6269,Female,24,Visakhapatnam,Student,1,0,7.1,5,0,'More than 8 hours',Unhealthy,M.Com,Yes,10,3,Yes,0
+6274,Male,25,Thane,Student,5,0,7.8,1,0,'More than 8 hours',Unhealthy,LLM,Yes,11,3,No,1
+6277,Female,20,Agra,Student,3,0,6.52,4,0,'7-8 hours',Moderate,'Class 12',No,6,1,Yes,0
+6279,Female,32,Faridabad,Student,3,0,8.04,1,0,'5-6 hours',Healthy,BBA,Yes,8,4,Yes,1
+6283,Male,31,Srinagar,Student,3,0,7.09,1,0,'Less than 5 hours',Healthy,MCA,Yes,11,1,Yes,1
+6284,Female,23,Agra,Student,5,0,9.86,2,0,'7-8 hours',Unhealthy,B.Com,Yes,1,3,Yes,1
+6286,Male,31,Ahmedabad,Student,2,0,8.91,1,0,'7-8 hours',Moderate,LLM,Yes,12,4,No,1
+6290,Male,22,Ludhiana,Student,5,0,7.04,4,0,'Less than 5 hours',Healthy,BA,No,12,3,Yes,1
+6292,Female,20,Srinagar,Student,2,0,5.12,3,0,'Less than 5 hours',Healthy,'Class 12',No,3,1,Yes,0
+6293,Female,22,Delhi,Student,4,0,5.42,2,0,'7-8 hours',Healthy,BCA,Yes,12,1,No,1
+6300,Male,24,Thane,Student,2,0,8.04,2,0,'Less than 5 hours',Unhealthy,BBA,No,0,3,Yes,1
+6303,Male,27,Nashik,Student,4,0,8.44,1,0,'7-8 hours',Unhealthy,LLB,Yes,9,2,Yes,1
+6307,Female,20,Visakhapatnam,Student,4,0,5.83,1,0,'5-6 hours',Healthy,'Class 12',Yes,0,2,No,1
+6310,Male,26,Chennai,Student,5,0,5.59,1,0,'Less than 5 hours',Moderate,BA,Yes,10,2,No,1
+6321,Female,21,Ghaziabad,Student,1,0,7.25,2,0,'5-6 hours',Moderate,B.Arch,No,3,4,Yes,0
+6327,Female,24,Thane,Student,3,0,5.42,5,0,'5-6 hours',Healthy,B.Pharm,No,1,3,No,0
+6337,Male,34,Agra,Student,1,0,9.74,3,0,'More than 8 hours',Moderate,M.Pharm,No,12,1,No,0
+6355,Female,22,Bangalore,Student,4,0,8.03,1,0,'More than 8 hours',Moderate,M.Com,No,8,2,No,0
+6358,Female,26,Vasai-Virar,Student,2,0,8.93,4,0,'7-8 hours',Healthy,B.Ed,No,11,1,No,0
+6362,Male,25,Delhi,Student,4,0,9.39,4,0,'More than 8 hours',Unhealthy,BCA,No,3,5,No,1
+6364,Male,33,Kolkata,Student,2,0,9.95,5,0,'Less than 5 hours',Unhealthy,BCA,Yes,6,5,No,1
+6383,Female,21,Mumbai,Student,1,0,7.64,5,0,'More than 8 hours',Unhealthy,MCA,No,0,1,Yes,0
+6384,Female,28,Bhopal,Student,4,0,8.5,5,0,'More than 8 hours',Moderate,B.Com,Yes,8,5,No,1
+6393,Female,28,Kalyan,Student,4,0,5.86,2,0,'Less than 5 hours',Unhealthy,B.Com,Yes,4,5,No,1
+6398,Female,23,Indore,Student,5,0,6.33,4,0,'Less than 5 hours',Healthy,BE,Yes,6,4,Yes,1
+6404,Male,29,Thane,Student,1,0,7.45,2,0,'7-8 hours',Moderate,B.Com,No,1,1,Yes,0
+6406,Male,27,Lucknow,Student,2,0,9.37,5,0,'5-6 hours',Moderate,BSc,Yes,10,2,No,0
+6408,Male,34,Visakhapatnam,Student,3,0,8.7,3,0,'More than 8 hours',Healthy,B.Ed,No,12,2,Yes,0
+6411,Male,23,Vadodara,Student,1,0,8.95,1,0,'7-8 hours',Healthy,B.Com,No,7,4,No,0
+6412,Male,21,Bangalore,Student,1,0,7.94,4,0,'5-6 hours',Unhealthy,B.Arch,No,11,3,No,0
+6425,Male,21,Bhopal,Student,4,0,8.56,4,0,'5-6 hours',Unhealthy,M.Tech,Yes,7,2,No,0
+6448,Female,20,Bangalore,Student,5,0,7.7,2,0,'5-6 hours',Unhealthy,'Class 12',Yes,11,4,Yes,1
+6451,Male,22,Kanpur,Student,4,0,8.91,3,0,'Less than 5 hours',Unhealthy,B.Com,Yes,10,5,Yes,1
+6452,Female,32,Varanasi,Student,3,0,9.79,5,0,'7-8 hours',Moderate,B.Arch,Yes,1,4,No,0
+6456,Female,19,Delhi,Student,4,0,5.82,4,0,'More than 8 hours',Healthy,'Class 12',Yes,11,5,No,1
+6468,Male,21,Faridabad,Student,3,0,6.74,1,0,'More than 8 hours',Moderate,MSc,No,12,2,Yes,0
+6477,Female,32,Patna,Student,4,0,9.72,2,0,'Less than 5 hours',Unhealthy,PhD,Yes,2,1,Yes,0
+6482,Female,30,Pune,Student,1,0,6.5,4,0,'More than 8 hours',Healthy,BSc,Yes,4,4,Yes,0
+6483,Male,22,Kanpur,Student,4,0,8.77,5,0,'5-6 hours',Moderate,BA,No,4,1,Yes,0
+6484,Female,24,Rajkot,Student,3,0,8.63,5,0,'7-8 hours',Moderate,BBA,Yes,10,5,Yes,1
+6488,Female,24,Ghaziabad,Student,3,0,7.53,1,0,'Less than 5 hours',Unhealthy,MBBS,Yes,1,4,No,0
+6491,Female,28,Vadodara,Student,2,0,8.73,3,0,'7-8 hours',Healthy,MBBS,No,4,1,Yes,0
+6492,Female,24,Pune,Student,4,0,6.78,1,0,'7-8 hours',Healthy,'Class 12',Yes,1,5,No,1
+6494,Female,28,Varanasi,Student,4,0,6.92,2,0,'7-8 hours',Healthy,M.Pharm,No,6,1,No,0
+6495,Male,33,Bhopal,Student,1,0,6.37,4,0,'5-6 hours',Moderate,ME,No,2,1,No,0
+6498,Male,20,Visakhapatnam,Student,3,0,5.67,1,0,'More than 8 hours',Healthy,'Class 12',No,12,1,No,0
+6503,Male,34,Agra,Student,5,0,7.25,3,0,'5-6 hours',Healthy,B.Pharm,No,1,1,No,0
+6504,Male,26,Vadodara,Student,4,0,6.75,4,0,'Less than 5 hours',Moderate,BSc,Yes,10,3,No,1
+6507,Male,26,Ahmedabad,Student,4,0,9.56,2,0,'7-8 hours',Unhealthy,PhD,Yes,1,3,Yes,0
+6510,Female,27,Thane,Student,5,0,5.7,2,0,'Less than 5 hours',Moderate,BHM,Yes,7,3,Yes,1
+6513,Male,33,Jaipur,Student,1,0,7.15,5,0,'5-6 hours',Moderate,M.Tech,No,7,4,No,0
+6517,Male,28,Kalyan,Student,3,0,5.46,5,0,'Less than 5 hours',Healthy,M.Ed,Yes,11,5,Yes,1
+6526,Male,28,Lucknow,Student,2,0,7.51,4,0,'More than 8 hours',Healthy,LLB,Yes,7,2,Yes,1
+6529,Male,29,Bangalore,Student,1,0,8.73,2,0,'7-8 hours',Moderate,B.Ed,No,7,5,Yes,0
+6530,Female,32,Kolkata,Student,4,0,9.42,5,0,'7-8 hours',Moderate,LLB,No,2,1,Yes,0
+6534,Male,29,Visakhapatnam,Student,3,0,5.74,2,0,'More than 8 hours',Moderate,B.Ed,No,12,4,No,0
+6541,Male,32,Agra,Student,1,0,9.02,3,0,'5-6 hours',Moderate,B.Tech,Yes,8,3,Yes,1
+6554,Female,19,Kanpur,Student,3,0,8.61,4,0,'7-8 hours',Unhealthy,'Class 12',No,9,5,Yes,0
+6556,Female,24,Visakhapatnam,Student,5,0,9.9,5,0,'More than 8 hours',Moderate,M.Com,No,6,5,No,1
+6557,Male,30,Nagpur,Student,5,0,7.91,2,0,'More than 8 hours',Unhealthy,BE,Yes,0,3,Yes,1
+6561,Male,24,Visakhapatnam,Student,1,0,8.9,4,0,'7-8 hours',Unhealthy,B.Ed,No,5,1,Yes,0
+6569,Female,26,Jaipur,Student,4,0,9.24,5,0,'Less than 5 hours',Unhealthy,MA,Yes,10,2,Yes,1
+6572,Male,23,Nagpur,Student,5,0,5.85,2,0,'More than 8 hours',Healthy,B.Pharm,Yes,0,5,No,1
+6575,Female,25,Srinagar,Student,1,0,8.69,3,0,'Less than 5 hours',Moderate,MSc,No,6,1,No,0
+6580,Male,22,Ahmedabad,Student,2,0,8.14,1,0,'More than 8 hours',Healthy,MA,No,9,3,No,0
+6585,Male,24,Kalyan,Student,3,0,7.03,4,0,'5-6 hours',Moderate,B.Tech,Yes,3,3,No,0
+6586,Male,32,Hyderabad,Student,4,0,8.27,4,0,'Less than 5 hours',Unhealthy,BCA,Yes,0,4,Yes,1
+6596,Male,31,Ludhiana,Student,5,0,9.7,2,0,'7-8 hours',Healthy,MBBS,Yes,3,4,Yes,1
+6612,Male,27,Ahmedabad,Student,3,0,8.14,4,0,'More than 8 hours',Moderate,B.Ed,No,10,3,Yes,0
+6624,Male,24,Patna,Student,2,0,7.94,3,0,'5-6 hours',Unhealthy,MA,Yes,6,4,Yes,0
+6630,Male,33,Varanasi,Student,3,0,8.97,2,0,'Less than 5 hours',Healthy,B.Com,No,10,1,Yes,0
+6633,Female,32,Thane,Student,2,0,5.85,3,0,'Less than 5 hours',Healthy,BHM,Yes,5,5,Yes,1
+6637,Female,28,Srinagar,Student,5,0,6.99,1,0,'Less than 5 hours',Moderate,MBA,Yes,6,2,No,1
+6641,Female,21,Ghaziabad,Student,3,0,7.52,1,0,'More than 8 hours',Unhealthy,M.Com,Yes,10,3,Yes,1
+6642,Female,29,Agra,Student,1,0,9.82,3,0,'More than 8 hours',Healthy,M.Pharm,No,12,4,No,0
+6643,Female,30,Ludhiana,Student,2,0,5.16,4,0,'5-6 hours',Healthy,B.Com,No,0,2,Yes,0
+6644,Male,29,Pune,Student,5,0,6.16,2,0,'5-6 hours',Unhealthy,B.Ed,Yes,6,4,Yes,1
+6652,Female,29,Ahmedabad,Student,4,0,7.6,3,0,'7-8 hours',Healthy,B.Ed,Yes,5,1,Yes,0
+6662,Female,27,Indore,Student,3,0,8.53,4,0,'Less than 5 hours',Unhealthy,MBA,Yes,7,2,No,1
+6670,Male,22,Srinagar,Student,2,0,8.58,4,0,'7-8 hours',Healthy,BHM,No,6,5,No,0
+6677,Female,20,Vasai-Virar,Student,5,0,8.83,4,0,'More than 8 hours',Moderate,'Class 12',No,11,4,No,0
+6679,Male,19,Thane,Student,4,0,6.78,2,0,'Less than 5 hours',Healthy,'Class 12',No,3,5,No,1
+6688,Male,24,Hyderabad,Student,4,0,6.51,3,0,'5-6 hours',Moderate,MA,Yes,0,5,Yes,1
+6693,Female,24,Nashik,Student,1,0,9.19,5,0,'5-6 hours',Moderate,M.Tech,Yes,9,4,Yes,0
+6702,Female,24,Ghaziabad,Student,1,0,7.25,5,0,'7-8 hours',Healthy,MBBS,Yes,12,1,No,0
+6704,Male,22,Meerut,Student,3,0,7.1,2,0,'Less than 5 hours',Moderate,B.Com,Yes,8,5,Yes,1
+6706,Male,28,Nagpur,Student,5,0,5.12,2,0,'5-6 hours',Unhealthy,BCA,Yes,12,5,No,1
+6707,Male,24,Kolkata,Student,3,0,5.27,1,0,'More than 8 hours',Unhealthy,B.Ed,Yes,11,5,Yes,1
+6713,Female,19,Jaipur,Student,3,0,9.5,4,0,'7-8 hours',Healthy,'Class 12',No,12,4,No,0
+6715,Male,29,Patna,Student,4,0,7.88,2,0,'5-6 hours',Moderate,PhD,Yes,11,3,No,1
+6718,Female,20,Lucknow,Student,5,0,5.46,2,0,'Less than 5 hours',Moderate,'Class 12',No,7,1,No,0
+6720,Female,31,Ahmedabad,Student,3,0,8.09,4,0,'7-8 hours',Unhealthy,MBA,Yes,6,4,No,1
+6729,Male,23,Hyderabad,Student,1,0,6.39,1,0,'More than 8 hours',Unhealthy,B.Tech,No,12,3,Yes,1
+6737,Female,20,Meerut,Student,4,0,8.52,3,0,'Less than 5 hours',Healthy,'Class 12',Yes,1,4,No,1
+6739,Female,29,Nagpur,Student,3,0,8.09,3,0,'7-8 hours',Moderate,BCA,Yes,7,2,No,1
+6740,Female,29,Ludhiana,Student,5,0,5.64,2,0,'Less than 5 hours',Unhealthy,MBA,Yes,6,5,No,1
+6749,Female,23,Kalyan,Student,5,0,8.54,1,0,'Less than 5 hours',Moderate,MA,Yes,6,4,Yes,1
+6751,Male,28,Vadodara,Student,3,0,7.51,3,0,'5-6 hours',Unhealthy,BBA,Yes,11,5,Yes,1
+6752,Female,19,Ludhiana,Student,2,0,9.11,5,0,'5-6 hours',Moderate,'Class 12',Yes,1,1,No,1
+6753,Female,20,Kalyan,Student,3,0,6,2,0,'7-8 hours',Unhealthy,'Class 12',No,10,2,Yes,0
+6762,Male,33,Surat,Student,3,0,7.08,5,0,'5-6 hours',Moderate,PhD,No,9,1,Yes,0
+6763,Female,30,Kolkata,Student,1,0,7.94,5,0,'Less than 5 hours',Healthy,MSc,No,2,1,No,0
+6766,Female,31,Ludhiana,Student,5,0,6.99,2,0,'Less than 5 hours',Moderate,BE,Yes,10,5,No,1
+6769,Female,18,Varanasi,Student,3,0,8.49,4,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,12,4,Yes,1
+6774,Male,34,Lucknow,Student,3,0,7.83,5,0,'More than 8 hours',Unhealthy,MBA,Yes,5,3,Yes,0
+6777,Female,19,Visakhapatnam,Student,5,0,8.54,1,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,12,2,No,1
+6782,Male,29,Jaipur,Student,5,0,9.56,1,0,'More than 8 hours',Unhealthy,MA,Yes,2,1,No,1
+6796,Male,33,Nagpur,Student,3,0,8.91,2,0,'7-8 hours',Moderate,BHM,No,6,2,No,0
+6797,Male,22,Patna,Student,5,0,9.97,4,0,'More than 8 hours',Healthy,B.Com,Yes,0,5,Yes,1
+6801,Female,24,Ghaziabad,Student,5,0,5.25,4,0,'7-8 hours',Moderate,MBBS,Yes,9,5,No,1
+6803,Male,23,Patna,Student,2,0,7.74,2,0,'5-6 hours',Moderate,B.Com,Yes,8,3,Yes,0
+6810,Female,30,Bangalore,Student,3,0,6,3,0,'5-6 hours',Moderate,B.Ed,No,4,5,Yes,0
+6812,Male,29,Thane,Student,3,0,7.25,4,0,'5-6 hours',Moderate,B.Ed,No,3,1,No,0
+6814,Male,28,Pune,Student,1,0,9.24,2,0,'5-6 hours',Unhealthy,MSc,Yes,5,4,Yes,1
+6816,Female,18,Surat,Student,3,0,7.22,4,0,'Less than 5 hours',Unhealthy,'Class 12',Yes,11,5,No,1
+6817,Male,32,Agra,Student,4,0,5.88,5,0,'7-8 hours',Moderate,BCA,Yes,8,4,No,0
+6819,Male,20,Vadodara,Student,2,0,6.99,3,0,'More than 8 hours',Unhealthy,'Class 12',No,6,3,Yes,1
+6823,Female,19,Srinagar,Student,3,0,5.85,3,0,'5-6 hours',Moderate,'Class 12',Yes,8,5,No,1
+6825,Female,25,Kalyan,Student,3,0,8.04,2,0,'More than 8 hours',Unhealthy,BHM,No,8,2,Yes,0
+6829,Female,27,Kalyan,Student,1,0,7.53,2,0,'Less than 5 hours',Healthy,B.Pharm,No,6,5,No,0
+6835,Female,33,Kolkata,Student,2,0,9.56,2,0,'5-6 hours',Unhealthy,MSc,Yes,10,5,No,1
+6837,Male,29,Vasai-Virar,Student,3,0,7.83,4,0,'Less than 5 hours',Healthy,BHM,No,2,2,No,0
+6839,Female,33,Agra,Student,3,0,8.04,2,0,'7-8 hours',Healthy,B.Tech,No,10,5,No,0
+6846,Male,25,Patna,Student,3,0,7.88,5,0,'5-6 hours',Healthy,'Class 12',Yes,7,3,Yes,1
+6848,Male,21,Ludhiana,Student,5,0,6.76,2,0,'7-8 hours',Healthy,MA,Yes,10,5,No,1
+6849,Female,18,Vadodara,Student,1,0,7.7,3,0,'5-6 hours',Healthy,'Class 12',No,5,2,No,0
+6850,Female,18,Srinagar,Student,5,0,8.53,4,0,'7-8 hours',Unhealthy,'Class 12',No,9,4,No,1
+6852,Male,36,Mumbai,Student,5,0,7.1,5,0,'Less than 5 hours',Moderate,MSc,Yes,0,2,Yes,0
+6862,Male,27,Lucknow,Student,3,0,8.9,4,0,'7-8 hours',Healthy,MHM,No,10,4,No,0
+6863,Female,24,Kolkata,Student,1,0,9.44,2,0,'7-8 hours',Unhealthy,BA,No,1,3,No,0
+6866,Male,18,Varanasi,Student,1,0,6.21,3,0,'5-6 hours',Healthy,'Class 12',No,7,2,No,0
+6875,Male,20,Mumbai,Student,3,0,5.7,3,0,'5-6 hours',Unhealthy,BSc,Yes,10,1,No,1
+6890,Female,33,Visakhapatnam,Student,5,0,6.29,4,0,'7-8 hours',Unhealthy,B.Pharm,Yes,4,3,No,1
+6893,Male,32,Varanasi,Student,3,0,8.35,2,0,'Less than 5 hours',Moderate,MSc,Yes,10,2,Yes,1
+6896,Female,22,Kanpur,Student,2,0,6.37,4,0,'More than 8 hours',Healthy,B.Arch,No,0,1,Yes,0
+6897,Female,31,Ghaziabad,Student,4,0,5.67,4,0,'7-8 hours',Healthy,MA,Yes,5,4,Yes,1
+6908,Male,33,Lucknow,Student,4,0,9.88,2,0,'Less than 5 hours',Unhealthy,M.Tech,Yes,10,5,No,1
+6912,Female,29,Kanpur,Student,1,0,6.03,5,0,'5-6 hours',Unhealthy,MSc,Yes,11,1,No,0
+6932,Male,23,Thane,Student,3,0,8.73,1,0,'More than 8 hours',Moderate,B.Ed,Yes,10,4,Yes,1
+6933,Male,28,Varanasi,Student,3,0,8.21,4,0,'More than 8 hours',Moderate,MD,No,10,1,Yes,0
+6934,Female,31,Faridabad,Student,1,0,9.41,2,0,'7-8 hours',Moderate,MA,Yes,9,4,Yes,1
+6935,Female,22,Surat,Student,4,0,7.51,3,0,'More than 8 hours',Unhealthy,BHM,Yes,4,3,Yes,1
+6937,Male,31,Vadodara,Student,3,0,8.94,1,0,'7-8 hours',Unhealthy,MCA,Yes,3,4,Yes,1
+6941,Male,19,Bhopal,Student,3,0,8.13,5,0,'More than 8 hours',Healthy,'Class 12',No,2,1,No,0
+6942,Female,25,Kalyan,Student,5,0,8.44,3,0,'5-6 hours',Unhealthy,MA,Yes,12,4,Yes,1
+6943,Male,25,Rajkot,Student,5,0,9.36,3,0,'Less than 5 hours',Healthy,M.Com,No,6,1,Yes,0
+6944,Female,24,Nagpur,Student,2,0,7.47,4,0,'Less than 5 hours',Unhealthy,BHM,Yes,3,4,No,1
+6947,Female,18,Mumbai,Student,5,0,9.11,4,0,'7-8 hours',Moderate,'Class 12',Yes,12,5,No,1
+6953,Female,19,Rajkot,Student,3,0,5.8,3,0,'7-8 hours',Healthy,'Class 12',Yes,4,3,No,1
+6958,Male,31,Ludhiana,Student,4,0,7.47,2,0,'5-6 hours',Unhealthy,MSc,No,10,2,No,0
+6959,Female,24,Mumbai,Student,5,0,6.59,4,0,'5-6 hours',Unhealthy,M.Tech,Yes,7,2,No,1
+6963,Female,25,Pune,Student,4,0,9.44,5,0,'5-6 hours',Unhealthy,B.Com,Yes,12,5,No,1
+6965,Female,20,Ghaziabad,Student,4,0,9.74,2,0,'Less than 5 hours',Moderate,'Class 12',Yes,1,4,Yes,1
+6971,Female,31,Ghaziabad,Student,5,0,7.35,4,0,'Less than 5 hours',Moderate,M.Ed,Yes,7,5,No,1
+6978,Male,24,Lucknow,Student,1,0,9.7,4,0,'5-6 hours',Healthy,B.Com,No,7,1,No,0
+6982,Male,29,Patna,Student,2,0,7.22,3,0,'More than 8 hours',Unhealthy,PhD,Yes,10,1,Yes,0
+6983,Female,34,Agra,Student,2,0,5.86,2,0,'Less than 5 hours',Healthy,PhD,Yes,12,4,Yes,0
+7002,Male,31,Kalyan,Student,2,0,9.96,5,0,'7-8 hours',Healthy,B.Ed,No,3,1,No,0
+7008,Male,29,Kanpur,Student,4,0,9.66,4,0,'7-8 hours',Healthy,B.Ed,Yes,4,2,Yes,1
+7009,Female,27,Ludhiana,Student,5,0,5.85,1,0,'7-8 hours',Healthy,MBA,Yes,12,2,Yes,1
+7010,Male,21,Kalyan,Student,5,0,9.21,1,0,'7-8 hours',Healthy,B.Ed,Yes,1,2,No,1
+7018,Male,33,Srinagar,Student,4,0,9.96,4,0,'Less than 5 hours',Healthy,M.Tech,Yes,12,2,No,0
+7030,Female,20,Ghaziabad,Student,4,0,9.54,4,0,'Less than 5 hours',Healthy,'Class 12',Yes,12,3,No,1
+7032,Male,32,Jaipur,Student,3,0,6.53,1,0,'Less than 5 hours',Unhealthy,M.Tech,Yes,12,3,Yes,1
+7043,Male,18,Vasai-Virar,Student,5,0,8.91,1,0,'More than 8 hours',Unhealthy,'Class 12',Yes,2,3,Yes,1
+7047,Male,28,Chennai,Student,2,0,6.75,4,0,'Less than 5 hours',Moderate,M.Ed,No,4,5,Yes,0
+7050,Female,26,Bangalore,Student,5,0,6.27,4,0,'5-6 hours',Healthy,BCA,Yes,5,2,Yes,1
+7059,Female,26,Meerut,Student,5,0,9.66,1,0,'Less than 5 hours',Healthy,MSc,No,3,5,No,1
+7065,Female,33,Thane,Student,1,0,7.47,3,0,'Less than 5 hours',Unhealthy,PhD,Yes,8,3,No,1
+7071,Male,30,Varanasi,Student,5,0,9.29,4,0,'5-6 hours',Moderate,BE,Yes,12,3,No,1
+7081,Female,23,Bangalore,Student,5,0,9.79,1,0,'More than 8 hours',Moderate,B.Tech,Yes,8,3,Yes,1
+7082,Female,33,Srinagar,Student,2,0,7.92,4,0,'5-6 hours',Healthy,BSc,No,12,5,No,0
+7085,Male,28,Kalyan,Student,2,0,7.94,2,0,'Less than 5 hours',Moderate,BCA,Yes,12,5,No,1
+7093,Male,21,Ludhiana,Student,5,0,7.8,1,0,'Less than 5 hours',Unhealthy,BE,Yes,11,5,Yes,1
+7099,Female,26,Jaipur,Student,4,0,7.72,5,0,'5-6 hours',Moderate,B.Tech,No,12,5,Yes,1
+7104,Male,30,Faridabad,Student,3,0,9.03,3,0,'7-8 hours',Healthy,MSc,Yes,9,3,No,0
